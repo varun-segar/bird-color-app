@@ -55,7 +55,11 @@ function App() {
         ) : (
           results.map((bird, i) => (
             <div key={i} style={{ margin: "1em", display: "flex", alignItems: "center", justifyContent: "center", gap: "1em" }}>
-              <img src={bird.image} alt={bird.name} height="100" style={{ borderRadius: "8px" }} />
+              <img src={bird.image} 
+              alt={bird.name} 
+              height="100"
+               onError={() => console.warn("❌ Failed to load image:", bird.image)}
+               style={{ borderRadius: "8px" }} />
               <div>
                 <h3>{bird.name}</h3>
                 <p>
