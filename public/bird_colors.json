@@ -1,0 +1,5744 @@
+{
+  "Anthus_gustavi": {
+    "hex": [
+      "#d6d3c7",
+      "#272315",
+      "#756d4e",
+      "#615837"
+    ],
+    "image": "static/images/Anthus_gustavi.jpeg"
+  },
+  "Sturnella_neglecta": {
+    "hex": [
+      "#d1cfc4",
+      "#2d2c26",
+      "#d2c451",
+      "#645c48"
+    ],
+    "image": "static/images/Sturnella_neglecta.jpeg"
+  },
+  "Geothlypis_speciosa": {
+    "hex": [
+      "#968547",
+      "#f5f4ed",
+      "#27261f",
+      "#644818"
+    ],
+    "image": "static/images/Geothlypis_speciosa.jpeg"
+  },
+  "Ammospiza_maritima": {
+    "hex": [
+      "#867f70",
+      "#f0efeb",
+      "#271d10",
+      "#493924"
+    ],
+    "image": "static/images/Ammospiza_maritima.jpeg"
+  },
+  "Arremon_virenticeps": {
+    "hex": [
+      "#66634d",
+      "#f0f0ec",
+      "#b4b4a2",
+      "#b0acae"
+    ],
+    "image": "static/images/Arremon_virenticeps.jpeg"
+  },
+  "Nothocercus_julius": {
+    "hex": [
+      "#6e4834",
+      "#efe6df",
+      "#acb1ae",
+      "#929c9c"
+    ],
+    "image": "static/images/Nothocercus_julius.jpeg"
+  },
+  "Thlypopsis_fulviceps": {
+    "hex": [
+      "#979598",
+      "#893327",
+      "#272222",
+      "#7b4436"
+    ],
+    "image": "static/images/Thlypopsis_fulviceps.jpeg"
+  },
+  "Creurgops_verticalis": {
+    "hex": [
+      "#959aa1",
+      "#855939",
+      "#2d3134",
+      "#543a26"
+    ],
+    "image": "static/images/Creurgops_verticalis.jpeg"
+  },
+  "Chrysomus_icterocephalus": {
+    "hex": [
+      "#3e4045",
+      "#eae6b5",
+      "#a4a587",
+      "#94989c"
+    ],
+    "image": "static/images/Chrysomus_icterocephalus.jpeg"
+  },
+  "Psarocolius_wagleri": {
+    "hex": [
+      "#4f4e4b",
+      "#eeeee6",
+      "#acb2b0",
+      "#8e9eb1"
+    ],
+    "image": "static/images/Psarocolius_wagleri.jpeg"
+  },
+  "Arremon_semitorquatus": {
+    "hex": [
+      "#cecec9",
+      "#26281b",
+      "#6e703f",
+      "#54532b"
+    ],
+    "image": "static/images/Arremon_semitorquatus.jpeg"
+  },
+  "Peucaea_humeralis": {
+    "hex": [
+      "#c4bcb3",
+      "#302a23",
+      "#644132",
+      "#6f5947"
+    ],
+    "image": "static/images/Peucaea_humeralis.jpeg"
+  },
+  "Centronyx_henslowii": {
+    "hex": [
+      "#c4baa8",
+      "#342417",
+      "#664e36",
+      "#7b643c"
+    ],
+    "image": "static/images/Centronyx_henslowii.jpeg"
+  },
+  "Dives_warczewiczi": {
+    "hex": [
+      "#535e74",
+      "#eeeff1",
+      "#a9b6c4",
+      "#8f9fc5"
+    ],
+    "image": "static/images/Dives_warczewiczi.jpeg"
+  },
+  "Emberiza_flaviventris": {
+    "hex": [
+      "#c9bda8",
+      "#362f27",
+      "#c1a439",
+      "#724f32"
+    ],
+    "image": "static/images/Emberiza_flaviventris.jpeg"
+  },
+  "Cardinalis_cardinalis": {
+    "hex": [
+      "#a95e43",
+      "#f5f3ee",
+      "#3e1d10",
+      "#b8aca8"
+    ],
+    "image": "static/images/Cardinalis_cardinalis.jpeg"
+  },
+  "Atlapetes_luteoviridis": {
+    "hex": [
+      "#948f4c",
+      "#efeee9",
+      "#363428",
+      "#544c44"
+    ],
+    "image": "static/images/Atlapetes_luteoviridis.jpeg"
+  },
+  "Piranga_rubriceps": {
+    "hex": [
+      "#be9c57",
+      "#3f3b26",
+      "#f8f7ee",
+      "#ba502d"
+    ],
+    "image": "static/images/Piranga_rubriceps.jpeg"
+  },
+  "Thlypopsis_inornata": {
+    "hex": [
+      "#b7b4b1",
+      "#cc8e36",
+      "#373531",
+      "#644c2c"
+    ],
+    "image": "static/images/Thlypopsis_inornata.jpeg"
+  },
+  "Icterus_mesomelas": {
+    "hex": [
+      "#e5e2b6",
+      "#2f2f24",
+      "#e9d63a",
+      "#746858"
+    ],
+    "image": "static/images/Icterus_mesomelas.jpeg"
+  },
+  "Setophaga_magnolia": {
+    "hex": [
+      "#b4b39c",
+      "#292a27",
+      "#4a4840",
+      "#817629"
+    ],
+    "image": "static/images/Setophaga_magnolia.jpeg"
+  },
+  "Calcarius_pictus": {
+    "hex": [
+      "#c7bba7",
+      "#33322d",
+      "#66544c",
+      "#685c40"
+    ],
+    "image": "static/images/Calcarius_pictus.jpeg"
+  },
+  "Geothlypis_flavovelata": {
+    "hex": [
+      "#b5a957",
+      "#f6f5eb",
+      "#2d2a1f",
+      "#6e642e"
+    ],
+    "image": "static/images/Geothlypis_flavovelata.jpeg"
+  },
+  "Setophaga_citrina": {
+    "hex": [
+      "#a29b52",
+      "#f8f7f0",
+      "#3c3c33",
+      "#5c544c"
+    ],
+    "image": "static/images/Setophaga_citrina.jpeg"
+  },
+  "Kleinothraupis_calophrys": {
+    "hex": [
+      "#a1a250",
+      "#f5f6ec",
+      "#393820",
+      "#4c544c"
+    ],
+    "image": "static/images/Kleinothraupis_calophrys.jpeg"
+  },
+  "Thlypopsis_ruficeps": {
+    "hex": [
+      "#a7a755",
+      "#f6f6ee",
+      "#3a3d28",
+      "#5c5c4a"
+    ],
+    "image": "static/images/Thlypopsis_ruficeps.jpeg"
+  },
+  "Chlorospingus_pileatus": {
+    "hex": [
+      "#aea76a",
+      "#f4f3ee",
+      "#302f29",
+      "#5c541c"
+    ],
+    "image": "static/images/Chlorospingus_pileatus.jpeg"
+  },
+  "Mitrospingus_cassinii": {
+    "hex": [
+      "#878560",
+      "#f1f1ec",
+      "#262524",
+      "#454346"
+    ],
+    "image": "static/images/Mitrospingus_cassinii.jpeg"
+  },
+  "Seiurus_aurocapilla": {
+    "hex": [
+      "#b9b49e",
+      "#201d16",
+      "#756c3a",
+      "#544c34"
+    ],
+    "image": "static/images/Seiurus_aurocapilla.jpeg"
+  },
+  "Geothlypis_nelsoni": {
+    "hex": [
+      "#a29c61",
+      "#f7f6ef",
+      "#211f1e",
+      "#564c3c"
+    ],
+    "image": "static/images/Geothlypis_nelsoni.jpeg"
+  },
+  "Lamprospiza_melanoleuca": {
+    "hex": [
+      "#4a4d58",
+      "#e7e7e7",
+      "#acadae",
+      "#a4a4ac"
+    ],
+    "image": "static/images/Lamprospiza_melanoleuca.jpeg"
+  },
+  "Motacilla_cinerea": {
+    "hex": [
+      "#c9cbbc",
+      "#2d312a",
+      "#d1c543",
+      "#60605c"
+    ],
+    "image": "static/images/Motacilla_cinerea.jpeg"
+  },
+  "Atlapetes_blancae": {
+    "hex": [
+      "#a8a162",
+      "#3a3a35",
+      "#f3f3ee",
+      "#64564c"
+    ],
+    "image": "static/images/Atlapetes_blancae.jpeg"
+  },
+  "Tinamus_osgoodi": {
+    "hex": [
+      "#38413d",
+      "#e3e5e3",
+      "#8e9494",
+      "#94a49c"
+    ],
+    "image": "static/images/Tinamus_osgoodi.jpeg"
+  },
+  "Cardellina_canadensis": {
+    "hex": [
+      "#b3b19b",
+      "#312c1d",
+      "#c9ba2b",
+      "#54585c"
+    ],
+    "image": "static/images/Cardellina_canadensis.jpeg"
+  },
+  "Rauenia_bonariensis": {
+    "hex": [
+      "#91a95b",
+      "#f6f8ee",
+      "#35421a",
+      "#514f38"
+    ],
+    "image": "static/images/Rauenia_bonariensis.jpeg"
+  },
+  "Setophaga_castanea": {
+    "hex": [
+      "#bcb6b1",
+      "#45403f",
+      "#8a5844",
+      "#77402f"
+    ],
+    "image": "static/images/Setophaga_castanea.jpeg"
+  },
+  "Bangsia_edwardsi": {
+    "hex": [
+      "#b1b696",
+      "#2e312e",
+      "#7d8034",
+      "#4d4a48"
+    ],
+    "image": "static/images/Bangsia_edwardsi.jpeg"
+  },
+  "Conothraupis_mesoleuca": {
+    "hex": [
+      "#3d3e46",
+      "#e0cfc4",
+      "#9ca4ac",
+      "#9c9ca4"
+    ],
+    "image": "static/images/Conothraupis_mesoleuca.jpeg"
+  },
+  "Junco_bairdi": {
+    "hex": [
+      "#c0b5a8",
+      "#86663f",
+      "#685c54",
+      "#6c6962"
+    ],
+    "image": "static/images/Junco_bairdi.jpeg"
+  },
+  "Spindalis_portoricensis": {
+    "hex": [
+      "#c7c5a2",
+      "#2a2a22",
+      "#b49d35",
+      "#69553a"
+    ],
+    "image": "static/images/Spindalis_portoricensis.jpeg"
+  },
+  "Ammodramus_humeralis": {
+    "hex": [
+      "#c4baae",
+      "#332821",
+      "#846748",
+      "#5e4d3f"
+    ],
+    "image": "static/images/Ammodramus_humeralis.jpeg"
+  },
+  "Eucometis_penicillata": {
+    "hex": [
+      "#96822e",
+      "#f5f3eb",
+      "#423c1f",
+      "#544412"
+    ],
+    "image": "static/images/Eucometis_penicillata.jpeg"
+  },
+  "Icterus_dominicensis": {
+    "hex": [
+      "#3f4142",
+      "#e9e2b3",
+      "#a1a6a6",
+      "#989ca4"
+    ],
+    "image": "static/images/Icterus_dominicensis.jpeg"
+  },
+  "Aimophila_rufescens": {
+    "hex": [
+      "#b7aca2",
+      "#714e32",
+      "#50301d",
+      "#4e4a4a"
+    ],
+    "image": "static/images/Aimophila_rufescens.jpeg"
+  },
+  "Ixothraupis_varia": {
+    "hex": [
+      "#bbb9a4",
+      "#2c2b22",
+      "#55504c",
+      "#786d3a"
+    ],
+    "image": "static/images/Ixothraupis_varia.jpeg"
+  },
+  "Heliothraupis_oneilli": {
+    "hex": [
+      "#39393d",
+      "#ebe6da",
+      "#9c9c9e",
+      "#94949c"
+    ],
+    "image": "static/images/Heliothraupis_oneilli.jpeg"
+  },
+  "Piranga_flava": {
+    "hex": [
+      "#b48967",
+      "#f3f2ec",
+      "#352821",
+      "#743c1c"
+    ],
+    "image": "static/images/Piranga_flava.jpeg"
+  },
+  "Icterus_jamacaii": {
+    "hex": [
+      "#d5d1c6",
+      "#2a2824",
+      "#c48b35",
+      "#644824"
+    ],
+    "image": "static/images/Icterus_jamacaii.jpeg"
+  },
+  "Atlapetes_seebohmi": {
+    "hex": [
+      "#9e9d9d",
+      "#282829",
+      "#443830",
+      "#5c4c3c"
+    ],
+    "image": "static/images/Atlapetes_seebohmi.jpeg"
+  },
+  "Bangsia_arcaei": {
+    "hex": [
+      "#494e54",
+      "#e9e5bd",
+      "#a1b0ba",
+      "#7c93b8"
+    ],
+    "image": "static/images/Bangsia_arcaei.jpeg"
+  },
+  "Atlapetes_personatus": {
+    "hex": [
+      "#8c8a5e",
+      "#2e2d2a",
+      "#f3f2ee",
+      "#4c4b4b"
+    ],
+    "image": "static/images/Atlapetes_personatus.jpeg"
+  },
+  "Myiothlypis_rivularis": {
+    "hex": [
+      "#cfcaba",
+      "#6d5e34",
+      "#6e6457",
+      "#727467"
+    ],
+    "image": "static/images/Myiothlypis_rivularis.jpeg"
+  },
+  "Kleinothraupis_atropileus": {
+    "hex": [
+      "#aea84d",
+      "#f7f7ec",
+      "#312f1c",
+      "#62542f"
+    ],
+    "image": "static/images/Kleinothraupis_atropileus.jpeg"
+  },
+  "Protonotaria_citrea": {
+    "hex": [
+      "#bab695",
+      "#c1a738",
+      "#3d4243",
+      "#5e5c5e"
+    ],
+    "image": "static/images/Protonotaria_citrea.jpeg"
+  },
+  "Microspingus_cinereus": {
+    "hex": [
+      "#c7c29c",
+      "#3c3e30",
+      "#645c4c",
+      "#686844"
+    ],
+    "image": "static/images/Microspingus_cinereus.jpeg"
+  },
+  "Amaurospiza_carrizalensis": {
+    "hex": [
+      "#484f62",
+      "#e5e6e4",
+      "#a4acbc",
+      "#98a0ac"
+    ],
+    "image": "static/images/Amaurospiza_carrizalensis.jpeg"
+  },
+  "Icterus_leucopteryx": {
+    "hex": [
+      "#d3d0a8",
+      "#282a24",
+      "#c3b437",
+      "#64645e"
+    ],
+    "image": "static/images/Icterus_leucopteryx.jpeg"
+  },
+  "Vermivora_cyanoptera": {
+    "hex": [
+      "#ada66a",
+      "#f2f2ea",
+      "#2e2b1e",
+      "#5c4c3c"
+    ],
+    "image": "static/images/Vermivora_cyanoptera.jpeg"
+  },
+  "Setophaga_pensylvanica": {
+    "hex": [
+      "#bfbdb1",
+      "#414036",
+      "#836d3b",
+      "#5c5c5a"
+    ],
+    "image": "static/images/Setophaga_pensylvanica.jpeg"
+  },
+  "Microspingus_erythrophrys": {
+    "hex": [
+      "#b1a79e",
+      "#3a3732",
+      "#925935",
+      "#6e412a"
+    ],
+    "image": "static/images/Microspingus_erythrophrys.jpeg"
+  },
+  "Leiothlypis_peregrina": {
+    "hex": [
+      "#bab6a9",
+      "#706a41",
+      "#68645c",
+      "#5c5454"
+    ],
+    "image": "static/images/Leiothlypis_peregrina.jpeg"
+  },
+  "Piranga_olivacea": {
+    "hex": [
+      "#b9684b",
+      "#433f3e",
+      "#f6f2eb",
+      "#aeada7"
+    ],
+    "image": "static/images/Piranga_olivacea.jpeg"
+  },
+  "Geothlypis_velata": {
+    "hex": [
+      "#a79f5a",
+      "#f5f5ee",
+      "#3b3a2f",
+      "#645c2c"
+    ],
+    "image": "static/images/Geothlypis_velata.jpeg"
+  },
+  "Limnothlypis_swainsonii": {
+    "hex": [
+      "#bab2a1",
+      "#6b593c",
+      "#645c4c",
+      "#6c644c"
+    ],
+    "image": "static/images/Limnothlypis_swainsonii.jpeg"
+  },
+  "Atlapetes_tibialis": {
+    "hex": [
+      "#616546",
+      "#f1f0e8",
+      "#adadab",
+      "#babd9c"
+    ],
+    "image": "static/images/Atlapetes_tibialis.jpeg"
+  },
+  "Arremon_crassirostris": {
+    "hex": [
+      "#66633c",
+      "#f5f4eb",
+      "#b7b7a2",
+      "#acaca6"
+    ],
+    "image": "static/images/Arremon_crassirostris.jpeg"
+  },
+  "Vermivora_chrysoptera": {
+    "hex": [
+      "#b8b7af",
+      "#2a2c2c",
+      "#aaa042",
+      "#5c4c4c"
+    ],
+    "image": "static/images/Vermivora_chrysoptera.jpeg"
+  },
+  "Agelaius_xanthomus": {
+    "hex": [
+      "#3e3f42",
+      "#eae9da",
+      "#a3a4a3",
+      "#9c9ca4"
+    ],
+    "image": "static/images/Agelaius_xanthomus.jpeg"
+  },
+  "Granatellus_venustus": {
+    "hex": [
+      "#69676b",
+      "#ece4e3",
+      "#bcbcbf",
+      "#b4b2bc"
+    ],
+    "image": "static/images/Granatellus_venustus.jpeg"
+  },
+  "Anthus_campestris": {
+    "hex": [
+      "#d0c8b4",
+      "#423826",
+      "#7c6d4e",
+      "#6c543c"
+    ],
+    "image": "static/images/Anthus_campestris.jpeg"
+  },
+  "Psarocolius_guatimozinus": {
+    "hex": [
+      "#494743",
+      "#eeeee6",
+      "#a5a8a8",
+      "#9c9ca4"
+    ],
+    "image": "static/images/Psarocolius_guatimozinus.jpeg"
+  },
+  "Cnemathraupis_aureodorsalis": {
+    "hex": [
+      "#afaf92",
+      "#363732",
+      "#4d4a43",
+      "#706c33"
+    ],
+    "image": "static/images/Cnemathraupis_aureodorsalis.jpeg"
+  },
+  "Melozone_kieneri": {
+    "hex": [
+      "#6e6661",
+      "#f0eeed",
+      "#b8b7b6",
+      "#acacb4"
+    ],
+    "image": "static/images/Melozone_kieneri.jpeg"
+  },
+  "Rhynchospiza_strigiceps": {
+    "hex": [
+      "#c7bdae",
+      "#483321",
+      "#816844",
+      "#5c5c54"
+    ],
+    "image": "static/images/Rhynchospiza_strigiceps.jpeg"
+  },
+  "Arremon_brunneinucha": {
+    "hex": [
+      "#5e5c44",
+      "#ecebe8",
+      "#a3a4a7",
+      "#b3b8bc"
+    ],
+    "image": "static/images/Arremon_brunneinucha.jpeg"
+  },
+  "Microspingus_trifasciatus": {
+    "hex": [
+      "#93876b",
+      "#f5f3ed",
+      "#322e1d",
+      "#51422c"
+    ],
+    "image": "static/images/Microspingus_trifasciatus.jpeg"
+  },
+  "Icteria_virens": {
+    "hex": [
+      "#888454",
+      "#f0efe8",
+      "#e5d36a",
+      "#1f241f"
+    ],
+    "image": "static/images/Icteria_virens.jpeg"
+  },
+  "Ammodramus_aurifrons": {
+    "hex": [
+      "#c4bbac",
+      "#857648",
+      "#423a2c",
+      "#64543e"
+    ],
+    "image": "static/images/Ammodramus_aurifrons.jpeg"
+  },
+  "Setophaga_pitiayumi": {
+    "hex": [
+      "#ccc9ad",
+      "#6a6c72",
+      "#7e7b7d",
+      "#7d703e"
+    ],
+    "image": "static/images/Setophaga_pitiayumi.jpeg"
+  },
+  "Icterus_parisorum": {
+    "hex": [
+      "#d8d6b3",
+      "#353b39",
+      "#d6c849",
+      "#606453"
+    ],
+    "image": "static/images/Icterus_parisorum.jpeg"
+  },
+  "Wetmorethraupis_sterrhopteron": {
+    "hex": [
+      "#b6bdad",
+      "#2f3b4d",
+      "#505355",
+      "#9e9444"
+    ],
+    "image": "static/images/Wetmorethraupis_sterrhopteron.jpeg"
+  },
+  "Leiothlypis_luciae": {
+    "hex": [
+      "#a6a4a5",
+      "#282424",
+      "#653f34",
+      "#794e3c"
+    ],
+    "image": "static/images/Leiothlypis_luciae.jpeg"
+  },
+  "Struthio_camelus": {
+    "hex": [
+      "#282b27",
+      "#e8ded5",
+      "#905d52",
+      "#b57a66"
+    ],
+    "image": "static/images/Struthio_camelus.jpeg"
+  },
+  "Arremon_nigriceps": {
+    "hex": [
+      "#bdbdbc",
+      "#33332e",
+      "#6a6b44",
+      "#545242"
+    ],
+    "image": "static/images/Arremon_nigriceps.jpeg"
+  },
+  "Cacicus_uropygialis": {
+    "hex": [
+      "#373c42",
+      "#e2dad4",
+      "#9a9c9c",
+      "#94949c"
+    ],
+    "image": "static/images/Cacicus_uropygialis.jpeg"
+  },
+  "Psarocolius_bifasciatus": {
+    "hex": [
+      "#e4e3d2",
+      "#593b1f",
+      "#816e38",
+      "#646864"
+    ],
+    "image": "static/images/Psarocolius_bifasciatus.jpeg"
+  },
+  "Leucopeza_semperi": {
+    "hex": [
+      "#797671",
+      "#eae9e5",
+      "#bbbcba",
+      "#bcb4bc"
+    ],
+    "image": "static/images/Leucopeza_semperi.jpeg"
+  },
+  "Emberiza_koslowi": {
+    "hex": [
+      "#bdb6b2",
+      "#805939",
+      "#201d19",
+      "#623c24"
+    ],
+    "image": "static/images/Emberiza_koslowi.jpeg"
+  },
+  "Quiscalus_major": {
+    "hex": [
+      "#495468",
+      "#ebedee",
+      "#788fb4",
+      "#a4b4c4"
+    ],
+    "image": "static/images/Quiscalus_major.jpeg"
+  },
+  "Pheucticus_chrysogaster": {
+    "hex": [
+      "#373839",
+      "#d0bf4c",
+      "#f4f4ee",
+      "#70601c"
+    ],
+    "image": "static/images/Pheucticus_chrysogaster.jpeg"
+  },
+  "Setophaga_virens": {
+    "hex": [
+      "#c3c1ae",
+      "#282622",
+      "#a69d41",
+      "#645444"
+    ],
+    "image": "static/images/Setophaga_virens.jpeg"
+  },
+  "Driophlox_cristata": {
+    "hex": [
+      "#9d694c",
+      "#f8f5f0",
+      "#c8b6a8",
+      "#54473e"
+    ],
+    "image": "static/images/Driophlox_cristata.jpeg"
+  },
+  "Agelasticus_thilius": {
+    "hex": [
+      "#4a4a4b",
+      "#e6e5e0",
+      "#a4a49e",
+      "#969694"
+    ],
+    "image": "static/images/Agelasticus_thilius.jpeg"
+  },
+  "Myiothlypis_leucoblephara": {
+    "hex": [
+      "#cecdc3",
+      "#7f784b",
+      "#74726f",
+      "#847c74"
+    ],
+    "image": "static/images/Myiothlypis_leucoblephara.jpeg"
+  },
+  "Arremon_taciturnus": {
+    "hex": [
+      "#d1d1c9",
+      "#292a20",
+      "#757440",
+      "#5e5b37"
+    ],
+    "image": "static/images/Arremon_taciturnus.jpeg"
+  },
+  "Zonotrichia_capensis": {
+    "hex": [
+      "#bfb5a5",
+      "#644c33",
+      "#484850",
+      "#695c4e"
+    ],
+    "image": "static/images/Zonotrichia_capensis.jpeg"
+  },
+  "Ptiloxena_atroviolacea": {
+    "hex": [
+      "#404861",
+      "#eff0f1",
+      "#7e8cb6",
+      "#a4acbc"
+    ],
+    "image": "static/images/Ptiloxena_atroviolacea.jpeg"
+  },
+  "Junco_hyemalis": {
+    "hex": [
+      "#69686a",
+      "#e1dede",
+      "#b4b4b4",
+      "#acacb4"
+    ],
+    "image": "static/images/Junco_hyemalis.jpeg"
+  },
+  "Amblycercus_holosericeus": {
+    "hex": [
+      "#3a4149",
+      "#ebebe5",
+      "#a2a6a2",
+      "#949ca4"
+    ],
+    "image": "static/images/Amblycercus_holosericeus.jpeg"
+  },
+  "Xenospiza_baileyi": {
+    "hex": [
+      "#bbafa3",
+      "#302219",
+      "#5b4431",
+      "#725a40"
+    ],
+    "image": "static/images/Xenospiza_baileyi.jpeg"
+  },
+  "Sphenopsis_frontalis": {
+    "hex": [
+      "#9c946e",
+      "#f5f5f0",
+      "#353630",
+      "#54482c"
+    ],
+    "image": "static/images/Sphenopsis_frontalis.jpeg"
+  },
+  "Motacilla_capensis": {
+    "hex": [
+      "#b7b9b0",
+      "#25261f",
+      "#595b48",
+      "#4c4b41"
+    ],
+    "image": "static/images/Motacilla_capensis.jpeg"
+  },
+  "Peucaea_botterii": {
+    "hex": [
+      "#c3b8aa",
+      "#433121",
+      "#684e37",
+      "#7f6040"
+    ],
+    "image": "static/images/Peucaea_botterii.jpeg"
+  },
+  "Motacilla_citreola": {
+    "hex": [
+      "#dddcc1",
+      "#404443",
+      "#ecd935",
+      "#74641c"
+    ],
+    "image": "static/images/Motacilla_citreola.jpeg"
+  },
+  "Junco_insularis": {
+    "hex": [
+      "#6d5f55",
+      "#f0edea",
+      "#c2b9b5",
+      "#c2a493"
+    ],
+    "image": "static/images/Junco_insularis.jpeg"
+  },
+  "Arremon_phygas": {
+    "hex": [
+      "#4f523d",
+      "#ebece9",
+      "#99a09d",
+      "#a8aea6"
+    ],
+    "image": "static/images/Arremon_phygas.jpeg"
+  },
+  "Atlapetes_rufinucha": {
+    "hex": [
+      "#787342",
+      "#f2f1ea",
+      "#dacf6f",
+      "#d4b484"
+    ],
+    "image": "static/images/Atlapetes_rufinucha.jpeg"
+  },
+  "Rhodinocichla_rosea": {
+    "hex": [
+      "#5b5452",
+      "#eeece8",
+      "#cf8d6c",
+      "#aaa6b0"
+    ],
+    "image": "static/images/Rhodinocichla_rosea.jpeg"
+  },
+  "Atlapetes_leucopis": {
+    "hex": [
+      "#aeaead",
+      "#333333",
+      "#545452",
+      "#606054"
+    ],
+    "image": "static/images/Atlapetes_leucopis.jpeg"
+  },
+  "Anthus_cervinus": {
+    "hex": [
+      "#d0cec1",
+      "#302e1e",
+      "#8d7742",
+      "#61583c"
+    ],
+    "image": "static/images/Anthus_cervinus.jpeg"
+  },
+  "Thlypopsis_superciliaris": {
+    "hex": [
+      "#b29161",
+      "#f4f2eb",
+      "#493c2e",
+      "#54513e"
+    ],
+    "image": "static/images/Thlypopsis_superciliaris.jpeg"
+  },
+  "Sporathraupis_cyanocephala": {
+    "hex": [
+      "#b6b068",
+      "#32312a",
+      "#f2f2ee",
+      "#5d594c"
+    ],
+    "image": "static/images/Sporathraupis_cyanocephala.jpeg"
+  },
+  "Atlapetes_forbesi": {
+    "hex": [
+      "#a8a8aa",
+      "#2b2b2f",
+      "#925f38",
+      "#5d4941"
+    ],
+    "image": "static/images/Atlapetes_forbesi.jpeg"
+  },
+  "Motacilla_clara": {
+    "hex": [
+      "#cbcfcf",
+      "#2d3130",
+      "#656869",
+      "#747874"
+    ],
+    "image": "static/images/Motacilla_clara.jpeg"
+  },
+  "Molothrus_rufoaxillaris": {
+    "hex": [
+      "#4c535c",
+      "#ebeced",
+      "#acb4ba",
+      "#a0a5b4"
+    ],
+    "image": "static/images/Molothrus_rufoaxillaris.jpeg"
+  },
+  "Spizelloides_arborea": {
+    "hex": [
+      "#c4bcb0",
+      "#3f2e1a",
+      "#634a2e",
+      "#7b6344"
+    ],
+    "image": "static/images/Spizelloides_arborea.jpeg"
+  },
+  "Junco_vulcani": {
+    "hex": [
+      "#aca69c",
+      "#352e23",
+      "#5f5137",
+      "#4d3d2d"
+    ],
+    "image": "static/images/Junco_vulcani.jpeg"
+  },
+  "Arremon_aurantiirostris": {
+    "hex": [
+      "#777559",
+      "#f3f3ef",
+      "#2a2924",
+      "#453c3d"
+    ],
+    "image": "static/images/Arremon_aurantiirostris.jpeg"
+  },
+  "Anthus_sylvanus": {
+    "hex": [
+      "#cac4b0",
+      "#302412",
+      "#706444",
+      "#605137"
+    ],
+    "image": "static/images/Anthus_sylvanus.jpeg"
+  },
+  "Iridosornis_rufivertex": {
+    "hex": [
+      "#5f6c91",
+      "#edead2",
+      "#252421",
+      "#9cb4d0"
+    ],
+    "image": "static/images/Iridosornis_rufivertex.jpeg"
+  },
+  "Myioborus_torquatus": {
+    "hex": [
+      "#a29c72",
+      "#444541",
+      "#f2f3ef",
+      "#635a53"
+    ],
+    "image": "static/images/Myioborus_torquatus.jpeg"
+  },
+  "Basileuterus_melanotis": {
+    "hex": [
+      "#a6a187",
+      "#f5f5f0",
+      "#51504d",
+      "#716a62"
+    ],
+    "image": "static/images/Basileuterus_melanotis.jpeg"
+  },
+  "Icterus_pectoralis": {
+    "hex": [
+      "#dedbc4",
+      "#302e2a",
+      "#dfb930",
+      "#845c20"
+    ],
+    "image": "static/images/Icterus_pectoralis.jpeg"
+  },
+  "Oriturus_superciliosus": {
+    "hex": [
+      "#b8ac9a",
+      "#302014",
+      "#745a34",
+      "#593e23"
+    ],
+    "image": "static/images/Oriturus_superciliosus.jpeg"
+  },
+  "Vidua_macroura": {
+    "hex": [
+      "#c9c9cb",
+      "#2f2f33",
+      "#58585c",
+      "#646464"
+    ],
+    "image": "static/images/Vidua_macroura.jpeg"
+  },
+  "Atlapetes_fulviceps": {
+    "hex": [
+      "#8e8f51",
+      "#f2f2ea",
+      "#37381f",
+      "#54441c"
+    ],
+    "image": "static/images/Atlapetes_fulviceps.jpeg"
+  },
+  "Chlorospingus_inornatus": {
+    "hex": [
+      "#a8a25a",
+      "#f7f7f0",
+      "#444336",
+      "#5c5436"
+    ],
+    "image": "static/images/Chlorospingus_inornatus.jpeg"
+  },
+  "Orthogonys_chloricterus": {
+    "hex": [
+      "#a1a04a",
+      "#f7f6ec",
+      "#393c1c",
+      "#544c30"
+    ],
+    "image": "static/images/Orthogonys_chloricterus.jpeg"
+  },
+  "Setophaga_nigrescens": {
+    "hex": [
+      "#bbbcbd",
+      "#252629",
+      "#63635c",
+      "#555456"
+    ],
+    "image": "static/images/Setophaga_nigrescens.jpeg"
+  },
+  "Myiothlypis_griseiceps": {
+    "hex": [
+      "#7c795a",
+      "#f6f5ed",
+      "#d8c45e",
+      "#babca2"
+    ],
+    "image": "static/images/Myiothlypis_griseiceps.jpeg"
+  },
+  "Calochaetes_coccineus": {
+    "hex": [
+      "#a3afad",
+      "#2d4161",
+      "#b4ae43",
+      "#494961"
+    ],
+    "image": "static/images/Calochaetes_coccineus.jpeg"
+  },
+  "Leistes_superciliaris": {
+    "hex": [
+      "#393638",
+      "#e0cac5",
+      "#9c9d9c",
+      "#9c949c"
+    ],
+    "image": "static/images/Leistes_superciliaris.jpeg"
+  },
+  "Pezopetes_capitalis": {
+    "hex": [
+      "#908744",
+      "#f5f4f0",
+      "#333128",
+      "#55543b"
+    ],
+    "image": "static/images/Pezopetes_capitalis.jpeg"
+  },
+  "Emberiza_affinis": {
+    "hex": [
+      "#c6bb9f",
+      "#36332f",
+      "#c2ad32",
+      "#6e543c"
+    ],
+    "image": "static/images/Emberiza_affinis.jpeg"
+  },
+  "Cyanoloxia_cyanoides": {
+    "hex": [
+      "#373e4d",
+      "#e6e6e5",
+      "#98a4b0",
+      "#7e8ca4"
+    ],
+    "image": "static/images/Cyanoloxia_cyanoides.jpeg"
+  },
+  "Quiscalus_palustris": {
+    "hex": [
+      "#454854",
+      "#ecedee",
+      "#9290a4",
+      "#a4acb4"
+    ],
+    "image": "static/images/Quiscalus_palustris.jpeg"
+  },
+  "Agelaius_tricolor": {
+    "hex": [
+      "#4a4c54",
+      "#eae6e6",
+      "#acafb0",
+      "#a1a4ac"
+    ],
+    "image": "static/images/Agelaius_tricolor.jpeg"
+  },
+  "Xanthopsar_flavus": {
+    "hex": [
+      "#3c3735",
+      "#caab4f",
+      "#efede9",
+      "#69552b"
+    ],
+    "image": "static/images/Xanthopsar_flavus.jpeg"
+  },
+  "Emberiza_buchanani": {
+    "hex": [
+      "#baad9c",
+      "#785833",
+      "#48341f",
+      "#545050"
+    ],
+    "image": "static/images/Emberiza_buchanani.jpeg"
+  },
+  "Emberiza_impetuani": {
+    "hex": [
+      "#c4b19d",
+      "#845e37",
+      "#4f3821",
+      "#585044"
+    ],
+    "image": "static/images/Emberiza_impetuani.jpeg"
+  },
+  "Plectrophenax_nivalis": {
+    "hex": [
+      "#d3d4d4",
+      "#424448",
+      "#656464",
+      "#6b6c69"
+    ],
+    "image": "static/images/Plectrophenax_nivalis.jpeg"
+  },
+  "Myioborus_cardonai": {
+    "hex": [
+      "#60625f",
+      "#e8ddb7",
+      "#b8bab0",
+      "#a4a8ac"
+    ],
+    "image": "static/images/Myioborus_cardonai.jpeg"
+  },
+  "Myiothlypis_coronata": {
+    "hex": [
+      "#7a7356",
+      "#f4f2ec",
+      "#dfcd69",
+      "#bcbca4"
+    ],
+    "image": "static/images/Myiothlypis_coronata.jpeg"
+  },
+  "Basileuterus_tristriatus": {
+    "hex": [
+      "#88815d",
+      "#f5f4ec",
+      "#dbd38e",
+      "#c3c4a6"
+    ],
+    "image": "static/images/Basileuterus_tristriatus.jpeg"
+  },
+  "Agelaius_assimilis": {
+    "hex": [
+      "#515157",
+      "#e8e1da",
+      "#acacaa",
+      "#9ca4b4"
+    ],
+    "image": "static/images/Agelaius_assimilis.jpeg"
+  },
+  "Pooecetes_gramineus": {
+    "hex": [
+      "#c6bdb3",
+      "#372a1d",
+      "#644f3c",
+      "#71604a"
+    ],
+    "image": "static/images/Pooecetes_gramineus.jpeg"
+  },
+  "Icterus_pustulatus": {
+    "hex": [
+      "#dcd7c3",
+      "#2f2b25",
+      "#d19630",
+      "#a44c2c"
+    ],
+    "image": "static/images/Icterus_pustulatus.jpeg"
+  },
+  "Artemisiospiza_nevadensis": {
+    "hex": [
+      "#bcb3a6",
+      "#2b2014",
+      "#755e40",
+      "#58452f"
+    ],
+    "image": "static/images/Artemisiospiza_nevadensis.jpeg"
+  },
+  "Anthus_gutturalis": {
+    "hex": [
+      "#806e4e",
+      "#f5f3ec",
+      "#cbb084",
+      "#bcbca4"
+    ],
+    "image": "static/images/Anthus_gutturalis.jpeg"
+  },
+  "Arremon_castaneiceps": {
+    "hex": [
+      "#757548",
+      "#eeeee8",
+      "#2b2b16",
+      "#4e362c"
+    ],
+    "image": "static/images/Arremon_castaneiceps.jpeg"
+  },
+  "Geothlypis_semiflava": {
+    "hex": [
+      "#a49c4d",
+      "#f4f3ea",
+      "#36362e",
+      "#4c3e34"
+    ],
+    "image": "static/images/Geothlypis_semiflava.jpeg"
+  },
+  "Motacilla_maderaspatensis": {
+    "hex": [
+      "#d1d2d3",
+      "#202020",
+      "#606062",
+      "#6c6c6c"
+    ],
+    "image": "static/images/Motacilla_maderaspatensis.jpeg"
+  },
+  "Icterus_maculialatus": {
+    "hex": [
+      "#3d4245",
+      "#dadbd1",
+      "#ddbe3b",
+      "#645f52"
+    ],
+    "image": "static/images/Icterus_maculialatus.jpeg"
+  },
+  "Loriotus_rufiventer": {
+    "hex": [
+      "#37363b",
+      "#e5e4e4",
+      "#9c9d92",
+      "#919194"
+    ],
+    "image": "static/images/Loriotus_rufiventer.jpeg"
+  },
+  "Xanthocephalus_xanthocephalus": {
+    "hex": [
+      "#474b53",
+      "#eeeac2",
+      "#aaafb3",
+      "#989ca4"
+    ],
+    "image": "static/images/Xanthocephalus_xanthocephalus.jpeg"
+  },
+  "Myioborus_albifacies": {
+    "hex": [
+      "#8a856e",
+      "#eeefec",
+      "#35383c",
+      "#4d4c49"
+    ],
+    "image": "static/images/Myioborus_albifacies.jpeg"
+  },
+  "Molothrus_bonariensis": {
+    "hex": [
+      "#4a5772",
+      "#eeeff0",
+      "#849bc9",
+      "#a0b4d8"
+    ],
+    "image": "static/images/Molothrus_bonariensis.jpeg"
+  },
+  "Atlapetes_pileatus": {
+    "hex": [
+      "#a09966",
+      "#38383b",
+      "#f3f2ef",
+      "#555359"
+    ],
+    "image": "static/images/Atlapetes_pileatus.jpeg"
+  },
+  "Piranga_rubra": {
+    "hex": [
+      "#b8684c",
+      "#f6f2ed",
+      "#c0aea6",
+      "#462e26"
+    ],
+    "image": "static/images/Piranga_rubra.jpeg"
+  },
+  "Anthus_pallidiventris": {
+    "hex": [
+      "#d6d0b9",
+      "#534728",
+      "#7b6c43",
+      "#696956"
+    ],
+    "image": "static/images/Anthus_pallidiventris.jpeg"
+  },
+  "Anisognathus_notabilis": {
+    "hex": [
+      "#b2b1a2",
+      "#2f3239",
+      "#4c4a4f",
+      "#968c38"
+    ],
+    "image": "static/images/Anisognathus_notabilis.jpeg"
+  },
+  "Ramphocelus_melanogaster": {
+    "hex": [
+      "#483837",
+      "#eceae8",
+      "#a19e9b",
+      "#8c8c94"
+    ],
+    "image": "static/images/Ramphocelus_melanogaster.jpeg"
+  },
+  "Dolichonyx_oryzivorus": {
+    "hex": [
+      "#cbcbcb",
+      "#26272a",
+      "#54565a",
+      "#747064"
+    ],
+    "image": "static/images/Dolichonyx_oryzivorus.jpeg"
+  },
+  "Passerina_leclancherii": {
+    "hex": [
+      "#b7c6c6",
+      "#4e7485",
+      "#d1bf37",
+      "#64644c"
+    ],
+    "image": "static/images/Passerina_leclancherii.jpeg"
+  },
+  "Aimophila_ruficeps": {
+    "hex": [
+      "#bdb2a5",
+      "#573e2c",
+      "#785d3d",
+      "#64605c"
+    ],
+    "image": "static/images/Aimophila_ruficeps.jpeg"
+  },
+  "Amaurospiza_moesta": {
+    "hex": [
+      "#4b515b",
+      "#e8e8e4",
+      "#a4acac",
+      "#9ca4ac"
+    ],
+    "image": "static/images/Amaurospiza_moesta.jpeg"
+  },
+  "Icterus_laudabilis": {
+    "hex": [
+      "#444342",
+      "#e9dbbf",
+      "#a4a7a6",
+      "#999c9c"
+    ],
+    "image": "static/images/Icterus_laudabilis.jpeg"
+  },
+  "Emberiza_caesia": {
+    "hex": [
+      "#7c6955",
+      "#f6f4f1",
+      "#c9a69c",
+      "#d1bcb1"
+    ],
+    "image": "static/images/Emberiza_caesia.jpeg"
+  },
+  "Molothrus_ater": {
+    "hex": [
+      "#434648",
+      "#ebecea",
+      "#90989c",
+      "#9ea4a8"
+    ],
+    "image": "static/images/Molothrus_ater.jpeg"
+  },
+  "Thraupis_glaucocolpa": {
+    "hex": [
+      "#b2c2ca",
+      "#3f505e",
+      "#686862",
+      "#646c70"
+    ],
+    "image": "static/images/Thraupis_glaucocolpa.jpeg"
+  },
+  "Pipilo_maculatus": {
+    "hex": [
+      "#cfccc7",
+      "#302e2c",
+      "#7c5e40",
+      "#56493b"
+    ],
+    "image": "static/images/Pipilo_maculatus.jpeg"
+  },
+  "Anthus_nicholsoni": {
+    "hex": [
+      "#dac7a6",
+      "#452e15",
+      "#886835",
+      "#70512a"
+    ],
+    "image": "static/images/Anthus_nicholsoni.jpeg"
+  },
+  "Setophaga_kirtlandii": {
+    "hex": [
+      "#b0afa4",
+      "#333331",
+      "#4f4a40",
+      "#646444"
+    ],
+    "image": "static/images/Setophaga_kirtlandii.jpeg"
+  },
+  "Melozone_aberti": {
+    "hex": [
+      "#918777",
+      "#f7f5f2",
+      "#ccc4bc",
+      "#ccccb4"
+    ],
+    "image": "static/images/Melozone_aberti.jpeg"
+  },
+  "Schistochlamys_ruficapillus": {
+    "hex": [
+      "#d4d5d8",
+      "#313643",
+      "#585c6b",
+      "#707460"
+    ],
+    "image": "static/images/Schistochlamys_ruficapillus.jpeg"
+  },
+  "Geothlypis_tolmiei": {
+    "hex": [
+      "#9e975d",
+      "#f6f4ef",
+      "#393a3c",
+      "#655c47"
+    ],
+    "image": "static/images/Geothlypis_tolmiei.jpeg"
+  },
+  "Pseudoleistes_guirahuro": {
+    "hex": [
+      "#e5d79c",
+      "#433b30",
+      "#9e989e",
+      "#a4a4a4"
+    ],
+    "image": "static/images/Pseudoleistes_guirahuro.jpeg"
+  },
+  "Teretistris_fornsi": {
+    "hex": [
+      "#b9b9ae",
+      "#decc4a",
+      "#6d6e74",
+      "#747c7c"
+    ],
+    "image": "static/images/Teretistris_fornsi.jpeg"
+  },
+  "Myiothlypis_fulvicauda": {
+    "hex": [
+      "#cbc6b6",
+      "#6b6140",
+      "#64605d",
+      "#6c6c6d"
+    ],
+    "image": "static/images/Myiothlypis_fulvicauda.jpeg"
+  },
+  "Lanio_versicolor": {
+    "hex": [
+      "#cfcba2",
+      "#313336",
+      "#515356",
+      "#6c6834"
+    ],
+    "image": "static/images/Lanio_versicolor.jpeg"
+  },
+  "Atlapetes_pallidiceps": {
+    "hex": [
+      "#a6a6a5",
+      "#2e2d2c",
+      "#4f484a",
+      "#5c5649"
+    ],
+    "image": "static/images/Atlapetes_pallidiceps.jpeg"
+  },
+  "Iridosornis_reinhardti": {
+    "hex": [
+      "#b4b6ba",
+      "#363947",
+      "#4f5e81",
+      "#555a5c"
+    ],
+    "image": "static/images/Iridosornis_reinhardti.jpeg"
+  },
+  "Piranga_erythrocephala": {
+    "hex": [
+      "#c2ae60",
+      "#f7f6ee",
+      "#3e322a",
+      "#b35034"
+    ],
+    "image": "static/images/Piranga_erythrocephala.jpeg"
+  },
+  "Cyanocompsa_parellina": {
+    "hex": [
+      "#3e486e",
+      "#eff2f4",
+      "#9aa9c0",
+      "#8291bf"
+    ],
+    "image": "static/images/Cyanocompsa_parellina.jpeg"
+  },
+  "Emberiza_lathami": {
+    "hex": [
+      "#58493f",
+      "#f3f2ef",
+      "#b7b2b1",
+      "#9999a4"
+    ],
+    "image": "static/images/Emberiza_lathami.jpeg"
+  },
+  "Paroaria_nigrogenis": {
+    "hex": [
+      "#393939",
+      "#e1e1e0",
+      "#934c42",
+      "#847874"
+    ],
+    "image": "static/images/Paroaria_nigrogenis.jpeg"
+  },
+  "Arremon_assimilis": {
+    "hex": [
+      "#69684d",
+      "#f0efeb",
+      "#a2a3ac",
+      "#bcbcbc"
+    ],
+    "image": "static/images/Arremon_assimilis.jpeg"
+  },
+  "Anthus_melindae": {
+    "hex": [
+      "#d8d3c3",
+      "#443a28",
+      "#66563c",
+      "#7c6d4c"
+    ],
+    "image": "static/images/Anthus_melindae.jpeg"
+  },
+  "Phaenicophilus_poliocephalus": {
+    "hex": [
+      "#bfc0bc",
+      "#7a7a3f",
+      "#323230",
+      "#55544a"
+    ],
+    "image": "static/images/Phaenicophilus_poliocephalus.jpeg"
+  },
+  "Pseudosaltator_rufiventris": {
+    "hex": [
+      "#6a789e",
+      "#eeeeef",
+      "#343338",
+      "#b0bcd0"
+    ],
+    "image": "static/images/Pseudosaltator_rufiventris.jpeg"
+  },
+  "Passerina_rositae": {
+    "hex": [
+      "#9fa1b7",
+      "#2d3d65",
+      "#805454",
+      "#543c44"
+    ],
+    "image": "static/images/Passerina_rositae.jpeg"
+  },
+  "Macroagelaius_subalaris": {
+    "hex": [
+      "#3d3d44",
+      "#e9e9e9",
+      "#a4a4a8",
+      "#9c9ca4"
+    ],
+    "image": "static/images/Macroagelaius_subalaris.jpeg"
+  },
+  "Myioborus_pictus": {
+    "hex": [
+      "#796163",
+      "#ededee",
+      "#363943",
+      "#b0b3b9"
+    ],
+    "image": "static/images/Myioborus_pictus.jpeg"
+  },
+  "Chlorospingus_semifuscus": {
+    "hex": [
+      "#9d996a",
+      "#f0f0e9",
+      "#322f27",
+      "#5c4c3c"
+    ],
+    "image": "static/images/Chlorospingus_semifuscus.jpeg"
+  },
+  "Arremon_perijanus": {
+    "hex": [
+      "#56583f",
+      "#efefeb",
+      "#b7b8af",
+      "#9a9f9e"
+    ],
+    "image": "static/images/Arremon_perijanus.jpeg"
+  },
+  "Casuarius_bennetti": {
+    "hex": [
+      "#373d3a",
+      "#e3e3e0",
+      "#949488",
+      "#5a81a2"
+    ],
+    "image": "static/images/Casuarius_bennetti.jpeg"
+  },
+  "Emberiza_hortulana": {
+    "hex": [
+      "#907c5b",
+      "#f7f5ed",
+      "#dbd098",
+      "#2f2514"
+    ],
+    "image": "static/images/Emberiza_hortulana.jpeg"
+  },
+  "Paroaria_capitata": {
+    "hex": [
+      "#b4b6bc",
+      "#33383f",
+      "#555159",
+      "#646154"
+    ],
+    "image": "static/images/Paroaria_capitata.jpeg"
+  },
+  "Passerculus_sandwichensis": {
+    "hex": [
+      "#bfb8b1",
+      "#373025",
+      "#6f5f4a",
+      "#604d40"
+    ],
+    "image": "static/images/Passerculus_sandwichensis.jpeg"
+  },
+  "Emberiza_fucata": {
+    "hex": [
+      "#b7a899",
+      "#342a24",
+      "#7a5636",
+      "#664228"
+    ],
+    "image": "static/images/Emberiza_fucata.jpeg"
+  },
+  "Basileuterus_punctipectus": {
+    "hex": [
+      "#8b8567",
+      "#f7f6f0",
+      "#d2cda9",
+      "#37372f"
+    ],
+    "image": "static/images/Basileuterus_punctipectus.jpeg"
+  },
+  "Basileuterus_ignotus": {
+    "hex": [
+      "#bdb8a0",
+      "#473d30",
+      "#716742",
+      "#5c5e50"
+    ],
+    "image": "static/images/Basileuterus_ignotus.jpeg"
+  },
+  "Emberiza_melanocephala": {
+    "hex": [
+      "#b4a260",
+      "#f6f3ee",
+      "#38322e",
+      "#5c5c54"
+    ],
+    "image": "static/images/Emberiza_melanocephala.jpeg"
+  },
+  "Cacicus_sclateri": {
+    "hex": [
+      "#3d444c",
+      "#e8eaea",
+      "#9fa7a6",
+      "#909ca4"
+    ],
+    "image": "static/images/Cacicus_sclateri.jpeg"
+  },
+  "Anthus_berthelotii": {
+    "hex": [
+      "#bbb8a8",
+      "#393523",
+      "#6a644a",
+      "#5c543a"
+    ],
+    "image": "static/images/Anthus_berthelotii.jpeg"
+  },
+  "Apteryx_rowi": {
+    "hex": [
+      "#8c8173",
+      "#f4f3ef",
+      "#cebaaa",
+      "#ccc4b8"
+    ],
+    "image": "static/images/Apteryx_rowi.jpeg"
+  },
+  "Basileuterus_delattrii": {
+    "hex": [
+      "#8b7d4a",
+      "#f6f4ec",
+      "#ded26d",
+      "#ccb078"
+    ],
+    "image": "static/images/Basileuterus_delattrii.jpeg"
+  },
+  "Anthus_spinoletta": {
+    "hex": [
+      "#c9c8b8",
+      "#373629",
+      "#6e6c50",
+      "#645c49"
+    ],
+    "image": "static/images/Anthus_spinoletta.jpeg"
+  },
+  "Myioborus_ornatus": {
+    "hex": [
+      "#a49c6f",
+      "#4c4f50",
+      "#f3f3f0",
+      "#645c44"
+    ],
+    "image": "static/images/Myioborus_ornatus.jpeg"
+  },
+  "Schistochlamys_melanopis": {
+    "hex": [
+      "#c0bbb0",
+      "#2f2a27",
+      "#c49949",
+      "#6c4c1c"
+    ],
+    "image": "static/images/Schistochlamys_melanopis.jpeg"
+  },
+  "Anthus_novaeseelandiae": {
+    "hex": [
+      "#c5c0af",
+      "#31291b",
+      "#6c6346",
+      "#5d5137"
+    ],
+    "image": "static/images/Anthus_novaeseelandiae.jpeg"
+  },
+  "Loriotus_cristatus": {
+    "hex": [
+      "#444140",
+      "#e8debd",
+      "#a8a894",
+      "#9c9ca4"
+    ],
+    "image": "static/images/Loriotus_cristatus.jpeg"
+  },
+  "Icterus_wagleri": {
+    "hex": [
+      "#d4d4c9",
+      "#3a4146",
+      "#595d5a",
+      "#e6ca3e"
+    ],
+    "image": "static/images/Icterus_wagleri.jpeg"
+  },
+  "Atlapetes_melanolaemus": {
+    "hex": [
+      "#54523e",
+      "#efeed7",
+      "#b1b145",
+      "#a4a4a4"
+    ],
+    "image": "static/images/Atlapetes_melanolaemus.jpeg"
+  },
+  "Hypopyrrhus_pyrohypogaster": {
+    "hex": [
+      "#3d393c",
+      "#e4d2cd",
+      "#929294",
+      "#a0a09c"
+    ],
+    "image": "static/images/Hypopyrrhus_pyrohypogaster.jpeg"
+  },
+  "Icterus_cucullatus": {
+    "hex": [
+      "#dddbd0",
+      "#3a3a3a",
+      "#d8a234",
+      "#6c3c1c"
+    ],
+    "image": "static/images/Icterus_cucullatus.jpeg"
+  },
+  "Periporphyrus_celaeno": {
+    "hex": [
+      "#474041",
+      "#e8dedc",
+      "#a1a4a4",
+      "#99999c"
+    ],
+    "image": "static/images/Periporphyrus_celaeno.jpeg"
+  },
+  "Geothlypis_beldingi": {
+    "hex": [
+      "#aba164",
+      "#f5f4ee",
+      "#292623",
+      "#5e5252"
+    ],
+    "image": "static/images/Geothlypis_beldingi.jpeg"
+  },
+  "Paroaria_baeri": {
+    "hex": [
+      "#383b43",
+      "#e1e1de",
+      "#905844",
+      "#96816d"
+    ],
+    "image": "static/images/Paroaria_baeri.jpeg"
+  },
+  "Myioborus_brunniceps": {
+    "hex": [
+      "#958f6c",
+      "#f0f1ed",
+      "#2c2924",
+      "#443830"
+    ],
+    "image": "static/images/Myioborus_brunniceps.jpeg"
+  },
+  "Icterus_bullockii": {
+    "hex": [
+      "#e0dccf",
+      "#262521",
+      "#d19631",
+      "#8e4e1c"
+    ],
+    "image": "static/images/Icterus_bullockii.jpeg"
+  },
+  "Emberiza_bruniceps": {
+    "hex": [
+      "#ae9c57",
+      "#f7f4ec",
+      "#724620",
+      "#433425"
+    ],
+    "image": "static/images/Emberiza_bruniceps.jpeg"
+  },
+  "Agelaioides_badius": {
+    "hex": [
+      "#8a7d6f",
+      "#f5f4f0",
+      "#262420",
+      "#523c28"
+    ],
+    "image": "static/images/Agelaioides_badius.jpeg"
+  },
+  "Nesopsar_nigerrimus": {
+    "hex": [
+      "#434c59",
+      "#edeef0",
+      "#999da4",
+      "#a4acb4"
+    ],
+    "image": "static/images/Nesopsar_nigerrimus.jpeg"
+  },
+  "Motacilla_grandis": {
+    "hex": [
+      "#242423",
+      "#d9dada",
+      "#646464",
+      "#747474"
+    ],
+    "image": "static/images/Motacilla_grandis.jpeg"
+  },
+  "Myiothlypis_conspicillata": {
+    "hex": [
+      "#9d9762",
+      "#f2f2ec",
+      "#403c35",
+      "#545542"
+    ],
+    "image": "static/images/Myiothlypis_conspicillata.jpeg"
+  },
+  "Conothraupis_speculigera": {
+    "hex": [
+      "#484a4e",
+      "#e8e8e6",
+      "#9aa4ae",
+      "#a4acac"
+    ],
+    "image": "static/images/Conothraupis_speculigera.jpeg"
+  },
+  "Nemosia_rourei": {
+    "hex": [
+      "#b2a396",
+      "#4a4e52",
+      "#41392e",
+      "#5d5c5c"
+    ],
+    "image": "static/images/Nemosia_rourei.jpeg"
+  },
+  "Emberiza_calandra": {
+    "hex": [
+      "#968568",
+      "#f6f4ef",
+      "#523f28",
+      "#2b1f10"
+    ],
+    "image": "static/images/Emberiza_calandra.jpeg"
+  },
+  "Emberiza_cirlus": {
+    "hex": [
+      "#a09164",
+      "#f7f6f0",
+      "#3a3925",
+      "#5c4129"
+    ],
+    "image": "static/images/Emberiza_cirlus.jpeg"
+  },
+  "Icterus_portoricensis": {
+    "hex": [
+      "#414345",
+      "#e9e5c7",
+      "#a7a9a8",
+      "#9c94a4"
+    ],
+    "image": "static/images/Icterus_portoricensis.jpeg"
+  },
+  "Driophlox_fuscicauda": {
+    "hex": [
+      "#a37652",
+      "#f6f4ed",
+      "#39312a",
+      "#7e4424"
+    ],
+    "image": "static/images/Driophlox_fuscicauda.jpeg"
+  },
+  "Arremon_franciscanus": {
+    "hex": [
+      "#dcdbd5",
+      "#969141",
+      "#343023",
+      "#686236"
+    ],
+    "image": "static/images/Arremon_franciscanus.jpeg"
+  },
+  "Driophlox_atrimaxillaris": {
+    "hex": [
+      "#675d53",
+      "#f3f2ea",
+      "#c79152",
+      "#b4b4b4"
+    ],
+    "image": "static/images/Driophlox_atrimaxillaris.jpeg"
+  },
+  "Dubusia_castaneoventris": {
+    "hex": [
+      "#7e6d64",
+      "#f0f0ed",
+      "#2c2e32",
+      "#b4b4bc"
+    ],
+    "image": "static/images/Dubusia_castaneoventris.jpeg"
+  },
+  "Icterus_auricapillus": {
+    "hex": [
+      "#3d3f3e",
+      "#d3b54f",
+      "#f2f3ef",
+      "#72582d"
+    ],
+    "image": "static/images/Icterus_auricapillus.jpeg"
+  },
+  "Lanio_leucothorax": {
+    "hex": [
+      "#433d41",
+      "#e3c4b7",
+      "#a8a79f",
+      "#8484a4"
+    ],
+    "image": "static/images/Lanio_leucothorax.jpeg"
+  },
+  "Quiscalus_quiscula": {
+    "hex": [
+      "#47526f",
+      "#eff1f2",
+      "#688ec2",
+      "#94acc6"
+    ],
+    "image": "static/images/Quiscalus_quiscula.jpeg"
+  },
+  "Basileuterus_tacarcunae": {
+    "hex": [
+      "#c5bfa4",
+      "#706544",
+      "#746958",
+      "#74745f"
+    ],
+    "image": "static/images/Basileuterus_tacarcunae.jpeg"
+  },
+  "Leiothlypis_virginiae": {
+    "hex": [
+      "#b1b0ae",
+      "#1a1912",
+      "#b6a845",
+      "#544c54"
+    ],
+    "image": "static/images/Leiothlypis_virginiae.jpeg"
+  },
+  "Microligea_palustris": {
+    "hex": [
+      "#adaaa0",
+      "#595342",
+      "#32322a",
+      "#4c4434"
+    ],
+    "image": "static/images/Microligea_palustris.jpeg"
+  },
+  "Apteryx_mantelli": {
+    "hex": [
+      "#6e6053",
+      "#f1efec",
+      "#b7b8b1",
+      "#b5aca4"
+    ],
+    "image": "static/images/Apteryx_mantelli.jpeg"
+  },
+  "Icterus_cayanensis": {
+    "hex": [
+      "#3d4043",
+      "#ebe7d3",
+      "#a2a6a1",
+      "#9c9ca4"
+    ],
+    "image": "static/images/Icterus_cayanensis.jpeg"
+  },
+  "Setophaga_americana": {
+    "hex": [
+      "#b5b5b2",
+      "#3d3d3d",
+      "#cbb442",
+      "#7c541c"
+    ],
+    "image": "static/images/Setophaga_americana.jpeg"
+  },
+  "Leiothlypis_crissalis": {
+    "hex": [
+      "#b4b0a4",
+      "#3e3a33",
+      "#7f753b",
+      "#5c544c"
+    ],
+    "image": "static/images/Leiothlypis_crissalis.jpeg"
+  },
+  "Melospiza_melodia": {
+    "hex": [
+      "#b8ab9d",
+      "#584129",
+      "#524a44",
+      "#5c4c44"
+    ],
+    "image": "static/images/Melospiza_melodia.jpeg"
+  },
+  "Anthus_hodgsoni": {
+    "hex": [
+      "#d5d3c4",
+      "#323018",
+      "#696940",
+      "#545231"
+    ],
+    "image": "static/images/Anthus_hodgsoni.jpeg"
+  },
+  "Icterus_bonana": {
+    "hex": [
+      "#9f7d55",
+      "#393a3b",
+      "#f4f4f1",
+      "#563e2c"
+    ],
+    "image": "static/images/Icterus_bonana.jpeg"
+  },
+  "Anthus_crenatus": {
+    "hex": [
+      "#9b8557",
+      "#f7f5ed",
+      "#3a2b12",
+      "#544c39"
+    ],
+    "image": "static/images/Anthus_crenatus.jpeg"
+  },
+  "Anthus_nilghiriensis": {
+    "hex": [
+      "#d0c7af",
+      "#44361c",
+      "#7b693b",
+      "#605c4c"
+    ],
+    "image": "static/images/Anthus_nilghiriensis.jpeg"
+  },
+  "Thraupis_abbas": {
+    "hex": [
+      "#bab79a",
+      "#3b3a27",
+      "#605c3a",
+      "#686836"
+    ],
+    "image": "static/images/Thraupis_abbas.jpeg"
+  },
+  "Spizella_atrogularis": {
+    "hex": [
+      "#afaaa6",
+      "#272524",
+      "#513c24",
+      "#725a41"
+    ],
+    "image": "static/images/Spizella_atrogularis.jpeg"
+  },
+  "Sericossypha_albocristata": {
+    "hex": [
+      "#bcbfc5",
+      "#404343",
+      "#817554",
+      "#5c504c"
+    ],
+    "image": "static/images/Sericossypha_albocristata.jpeg"
+  },
+  "Amphispiza_bilineata": {
+    "hex": [
+      "#b9b1a9",
+      "#2c2a29",
+      "#745f49",
+      "#584c48"
+    ],
+    "image": "static/images/Amphispiza_bilineata.jpeg"
+  },
+  "Calyptophilus_tertius": {
+    "hex": [
+      "#6d6b58",
+      "#ecebe7",
+      "#b4b4ac",
+      "#acaab0"
+    ],
+    "image": "static/images/Calyptophilus_tertius.jpeg"
+  },
+  "Kleinothraupis_reyi": {
+    "hex": [
+      "#aca454",
+      "#f7f6ec",
+      "#4c4c2b",
+      "#645c35"
+    ],
+    "image": "static/images/Kleinothraupis_reyi.jpeg"
+  },
+  "Melozone_biarcuata": {
+    "hex": [
+      "#72634f",
+      "#edece9",
+      "#c1b5a4",
+      "#b1b4b1"
+    ],
+    "image": "static/images/Melozone_biarcuata.jpeg"
+  },
+  "Teretistris_fernandinae": {
+    "hex": [
+      "#b4b5af",
+      "#bfae42",
+      "#2e2a18",
+      "#645c44"
+    ],
+    "image": "static/images/Teretistris_fernandinae.jpeg"
+  },
+  "Atlapetes_flaviceps": {
+    "hex": [
+      "#8e8847",
+      "#f4f4ee",
+      "#34341a",
+      "#4e4a2d"
+    ],
+    "image": "static/images/Atlapetes_flaviceps.jpeg"
+  },
+  "Spizella_pallida": {
+    "hex": [
+      "#c2b8ae",
+      "#3d2e20",
+      "#624f40",
+      "#705e48"
+    ],
+    "image": "static/images/Spizella_pallida.jpeg"
+  },
+  "Melozone_leucotis": {
+    "hex": [
+      "#b2aea5",
+      "#604f33",
+      "#2a271e",
+      "#493a2c"
+    ],
+    "image": "static/images/Melozone_leucotis.jpeg"
+  },
+  "Ixothraupis_rufigula": {
+    "hex": [
+      "#c7caac",
+      "#2b2d20",
+      "#868e40",
+      "#645c5c"
+    ],
+    "image": "static/images/Ixothraupis_rufigula.jpeg"
+  },
+  "Rhea_pennata": {
+    "hex": [
+      "#a9a59d",
+      "#2c2a23",
+      "#4c453b",
+      "#473b32"
+    ],
+    "image": "static/images/Rhea_pennata.jpeg"
+  },
+  "Geothlypis_auricularis": {
+    "hex": [
+      "#b4b065",
+      "#f4f3ec",
+      "#45443a",
+      "#646c5c"
+    ],
+    "image": "static/images/Geothlypis_auricularis.jpeg"
+  },
+  "Parkesia_noveboracensis": {
+    "hex": [
+      "#c5beaf",
+      "#302a1c",
+      "#6e6046",
+      "#60513c"
+    ],
+    "image": "static/images/Parkesia_noveboracensis.jpeg"
+  },
+  "Cassiculus_melanicterus": {
+    "hex": [
+      "#333739",
+      "#f1efcb",
+      "#acada1",
+      "#94949c"
+    ],
+    "image": "static/images/Cassiculus_melanicterus.jpeg"
+  },
+  "Bangsia_melanochlamys": {
+    "hex": [
+      "#3e4047",
+      "#e0dbaf",
+      "#9ca4a8",
+      "#9c9c9c"
+    ],
+    "image": "static/images/Bangsia_melanochlamys.jpeg"
+  },
+  "Chlorothraupis_stolzmanni": {
+    "hex": [
+      "#99965c",
+      "#f6f6ed",
+      "#3d3c24",
+      "#544c44"
+    ],
+    "image": "static/images/Chlorothraupis_stolzmanni.jpeg"
+  },
+  "Myiothlypis_fraseri": {
+    "hex": [
+      "#919073",
+      "#f6f5ef",
+      "#34383c",
+      "#544c44"
+    ],
+    "image": "static/images/Myiothlypis_fraseri.jpeg"
+  },
+  "Amphispizopsis_quinquestriata": {
+    "hex": [
+      "#b2aca6",
+      "#26231f",
+      "#6b543e",
+      "#554130"
+    ],
+    "image": "static/images/Amphispizopsis_quinquestriata.jpeg"
+  },
+  "Piranga_ludoviciana": {
+    "hex": [
+      "#dfd6a4",
+      "#42433a",
+      "#9f643d",
+      "#c88c38"
+    ],
+    "image": "static/images/Piranga_ludoviciana.jpeg"
+  },
+  "Cacicus_latirostris": {
+    "hex": [
+      "#37373c",
+      "#e9e8da",
+      "#99a0a1",
+      "#88949c"
+    ],
+    "image": "static/images/Cacicus_latirostris.jpeg"
+  },
+  "Chlorospingus_flavopectus": {
+    "hex": [
+      "#a9a366",
+      "#f3f3ea",
+      "#302e28",
+      "#5c5450"
+    ],
+    "image": "static/images/Chlorospingus_flavopectus.jpeg"
+  },
+  "Icterus_oberi": {
+    "hex": [
+      "#33363a",
+      "#dbdad4",
+      "#d3a83c",
+      "#565659"
+    ],
+    "image": "static/images/Icterus_oberi.jpeg"
+  },
+  "Calamospiza_melanocorys": {
+    "hex": [
+      "#474748",
+      "#e6e5e3",
+      "#a4a4a2",
+      "#a49ca4"
+    ],
+    "image": "static/images/Calamospiza_melanocorys.jpeg"
+  },
+  "Chlorochrysa_phoenicotis": {
+    "hex": [
+      "#8fa168",
+      "#f3f5f0",
+      "#2a2f27",
+      "#525136"
+    ],
+    "image": "static/images/Chlorochrysa_phoenicotis.jpeg"
+  },
+  "Psarocolius_atrovirens": {
+    "hex": [
+      "#797b52",
+      "#f2f2eb",
+      "#d4d294",
+      "#bcc49c"
+    ],
+    "image": "static/images/Psarocolius_atrovirens.jpeg"
+  },
+  "Arremon_phaeopleurus": {
+    "hex": [
+      "#787352",
+      "#f0efec",
+      "#24221e",
+      "#443c1c"
+    ],
+    "image": "static/images/Arremon_phaeopleurus.jpeg"
+  },
+  "Agelaioides_fringillarius": {
+    "hex": [
+      "#9c8b6e",
+      "#f3f3ef",
+      "#37352f",
+      "#5a4225"
+    ],
+    "image": "static/images/Agelaioides_fringillarius.jpeg"
+  },
+  "Thlypopsis_pyrrhocoma": {
+    "hex": [
+      "#b4ae56",
+      "#f7f7ef",
+      "#5a4c2a",
+      "#61673c"
+    ],
+    "image": "static/images/Thlypopsis_pyrrhocoma.jpeg"
+  },
+  "Microspingus_cabanisi": {
+    "hex": [
+      "#b8b8ba",
+      "#2e2f2e",
+      "#725e51",
+      "#5c443c"
+    ],
+    "image": "static/images/Microspingus_cabanisi.jpeg"
+  },
+  "Icterus_gularis": {
+    "hex": [
+      "#d7d3c0",
+      "#2b2a27",
+      "#d9ad2f",
+      "#6c5c34"
+    ],
+    "image": "static/images/Icterus_gularis.jpeg"
+  },
+  "Peucaea_mystacalis": {
+    "hex": [
+      "#b9afa2",
+      "#30271f",
+      "#5c4839",
+      "#7b5e3c"
+    ],
+    "image": "static/images/Peucaea_mystacalis.jpeg"
+  },
+  "Arremon_abeillei": {
+    "hex": [
+      "#b1b1b4",
+      "#2a2a2d",
+      "#4c4c4e",
+      "#545454"
+    ],
+    "image": "static/images/Arremon_abeillei.jpeg"
+  },
+  "Tephrophilus_wetmorei": {
+    "hex": [
+      "#98a662",
+      "#f6f6ec",
+      "#794c2b",
+      "#2f3519"
+    ],
+    "image": "static/images/Tephrophilus_wetmorei.jpeg"
+  },
+  "Atlapetes_terborghi": {
+    "hex": [
+      "#6e6d6f",
+      "#f0f0ef",
+      "#bcbcc1",
+      "#b0b4bc"
+    ],
+    "image": "static/images/Atlapetes_terborghi.jpeg"
+  },
+  "Arremonops_conirostris": {
+    "hex": [
+      "#abaa9d",
+      "#756e32",
+      "#1c1b14",
+      "#4c4414"
+    ],
+    "image": "static/images/Arremonops_conirostris.jpeg"
+  },
+  "Atlapetes_albofrenatus": {
+    "hex": [
+      "#756942",
+      "#f2f1e8",
+      "#292924",
+      "#adacaa"
+    ],
+    "image": "static/images/Atlapetes_albofrenatus.jpeg"
+  },
+  "Setophaga_fusca": {
+    "hex": [
+      "#c2bfb0",
+      "#2f2d2a",
+      "#c8a13c",
+      "#565144"
+    ],
+    "image": "static/images/Setophaga_fusca.jpeg"
+  },
+  "Nephelornis_oneilli": {
+    "hex": [
+      "#c7c2a9",
+      "#302e2a",
+      "#58544e",
+      "#64644c"
+    ],
+    "image": "static/images/Nephelornis_oneilli.jpeg"
+  },
+  "Rhea_americana": {
+    "hex": [
+      "#9e9c93",
+      "#191d1a",
+      "#49493c",
+      "#443c38"
+    ],
+    "image": "static/images/Rhea_americana.jpeg"
+  },
+  "Loriotus_luctuosus": {
+    "hex": [
+      "#36353b",
+      "#e9e9e3",
+      "#9c9c94",
+      "#8c8c9c"
+    ],
+    "image": "static/images/Loriotus_luctuosus.jpeg"
+  },
+  "Amblyramphus_holosericeus": {
+    "hex": [
+      "#89614c",
+      "#242327",
+      "#f2f2f0",
+      "#b4b4b1"
+    ],
+    "image": "static/images/Amblyramphus_holosericeus.jpeg"
+  },
+  "Passerina_versicolor": {
+    "hex": [
+      "#5d5c76",
+      "#eeefef",
+      "#b2b7b9",
+      "#9ca1c1"
+    ],
+    "image": "static/images/Passerina_versicolor.jpeg"
+  },
+  "Pipilo_naufragus": {
+    "hex": [
+      "#bdbaae",
+      "#655f33",
+      "#292724",
+      "#4f3b29"
+    ],
+    "image": "static/images/Pipilo_naufragus.jpeg"
+  },
+  "Ramphocelus_bresilius": {
+    "hex": [
+      "#5a4947",
+      "#e2ccc7",
+      "#aaa8a5",
+      "#ac9ca4"
+    ],
+    "image": "static/images/Ramphocelus_bresilius.jpeg"
+  },
+  "Setophaga_townsendi": {
+    "hex": [
+      "#b8b6a4",
+      "#232218",
+      "#7c7538",
+      "#4f4b35"
+    ],
+    "image": "static/images/Setophaga_townsendi.jpeg"
+  },
+  "Chlorothraupis_frenata": {
+    "hex": [
+      "#aeae62",
+      "#f5f5ec",
+      "#3a3c2e",
+      "#5c5c50"
+    ],
+    "image": "static/images/Chlorothraupis_frenata.jpeg"
+  },
+  "Icterus_nigrogularis": {
+    "hex": [
+      "#e0dcbf",
+      "#30302a",
+      "#e6cf31",
+      "#745c2c"
+    ],
+    "image": "static/images/Icterus_nigrogularis.jpeg"
+  },
+  "Pipilo_chlorurus": {
+    "hex": [
+      "#888978",
+      "#f3f3f0",
+      "#4a3e37",
+      "#545652"
+    ],
+    "image": "static/images/Pipilo_chlorurus.jpeg"
+  },
+  "Setophaga_adelaidae": {
+    "hex": [
+      "#c2c0a6",
+      "#444448",
+      "#686c70",
+      "#ecd840"
+    ],
+    "image": "static/images/Setophaga_adelaidae.jpeg"
+  },
+  "Anisognathus_igniventris": {
+    "hex": [
+      "#cfcd9b",
+      "#343534",
+      "#5c5c59",
+      "#a79c34"
+    ],
+    "image": "static/images/Anisognathus_igniventris.jpeg"
+  },
+  "Psarocolius_cassini": {
+    "hex": [
+      "#4e3f29",
+      "#edece3",
+      "#afb1a8",
+      "#9f9f99"
+    ],
+    "image": "static/images/Psarocolius_cassini.jpeg"
+  },
+  "Setophaga_discolor": {
+    "hex": [
+      "#aea574",
+      "#f7f6ee",
+      "#373020",
+      "#64545c"
+    ],
+    "image": "static/images/Setophaga_discolor.jpeg"
+  },
+  "Emberiza_leucocephalos": {
+    "hex": [
+      "#bbada6",
+      "#38261e",
+      "#6d5340",
+      "#5d3d30"
+    ],
+    "image": "static/images/Emberiza_leucocephalos.jpeg"
+  },
+  "Anumara_forbesi": {
+    "hex": [
+      "#42444b",
+      "#eaeaeb",
+      "#a4a6aa",
+      "#99999c"
+    ],
+    "image": "static/images/Anumara_forbesi.jpeg"
+  },
+  "Emberiza_citrinella": {
+    "hex": [
+      "#a99856",
+      "#f8f7ef",
+      "#5b482d",
+      "#5c5c5c"
+    ],
+    "image": "static/images/Emberiza_citrinella.jpeg"
+  },
+  "Sturnella_magna": {
+    "hex": [
+      "#ccc9bb",
+      "#312e26",
+      "#a69846",
+      "#645c47"
+    ],
+    "image": "static/images/Sturnella_magna.jpeg"
+  },
+  "Emberiza_godlewskii": {
+    "hex": [
+      "#b3a799",
+      "#322820",
+      "#645033",
+      "#4e3a21"
+    ],
+    "image": "static/images/Emberiza_godlewskii.jpeg"
+  },
+  "Bangsia_aureocincta": {
+    "hex": [
+      "#9c9751",
+      "#f2f1e8",
+      "#343427",
+      "#575438"
+    ],
+    "image": "static/images/Bangsia_aureocincta.jpeg"
+  },
+  "Iridosornis_analis": {
+    "hex": [
+      "#bbb7a7",
+      "#393f46",
+      "#bb8d3d",
+      "#5c543c"
+    ],
+    "image": "static/images/Iridosornis_analis.jpeg"
+  },
+  "Cyanoloxia_brissonii": {
+    "hex": [
+      "#454f6a",
+      "#e9eaea",
+      "#a0b2cc",
+      "#8c9cc4"
+    ],
+    "image": "static/images/Cyanoloxia_brissonii.jpeg"
+  },
+  "Quiscalus_mexicanus": {
+    "hex": [
+      "#4c566b",
+      "#f0f2f3",
+      "#a9acb1",
+      "#8191c6"
+    ],
+    "image": "static/images/Quiscalus_mexicanus.jpeg"
+  },
+  "Motacilla_flaviventris": {
+    "hex": [
+      "#d3d4c7",
+      "#303227",
+      "#d9cb46",
+      "#5e6057"
+    ],
+    "image": "static/images/Motacilla_flaviventris.jpeg"
+  },
+  "Motacilla_tschutschensis": {
+    "hex": [
+      "#d7d6b4",
+      "#3e422a",
+      "#e0c933",
+      "#746c36"
+    ],
+    "image": "static/images/Motacilla_tschutschensis.jpeg"
+  },
+  "Oreothraupis_arremonops": {
+    "hex": [
+      "#775131",
+      "#f3f2ef",
+      "#28221c",
+      "#aca6a4"
+    ],
+    "image": "static/images/Oreothraupis_arremonops.jpeg"
+  },
+  "Mniotilta_varia": {
+    "hex": [
+      "#b4b4b7",
+      "#323339",
+      "#545259",
+      "#6c5c54"
+    ],
+    "image": "static/images/Mniotilta_varia.jpeg"
+  },
+  "Orchesticus_abeillei": {
+    "hex": [
+      "#d6d5d6",
+      "#3c3a3c",
+      "#7d3f3e",
+      "#796d65"
+    ],
+    "image": "static/images/Orchesticus_abeillei.jpeg"
+  },
+  "Atlapetes_citrinellus": {
+    "hex": [
+      "#686156",
+      "#ecebea",
+      "#adaaae",
+      "#b4b4b2"
+    ],
+    "image": "static/images/Atlapetes_citrinellus.jpeg"
+  },
+  "Cardellina_rubra": {
+    "hex": [
+      "#9d4b42",
+      "#f5f0ee",
+      "#5a312e",
+      "#b4a4a4"
+    ],
+    "image": "static/images/Cardellina_rubra.jpeg"
+  },
+  "Cardellina_versicolor": {
+    "hex": [
+      "#815256",
+      "#f0e8eb",
+      "#c9a8b8",
+      "#c69ca0"
+    ],
+    "image": "static/images/Cardellina_versicolor.jpeg"
+  },
+  "Atlapetes_melanocephalus": {
+    "hex": [
+      "#83743d",
+      "#f0eee8",
+      "#cc9339",
+      "#c4bc6c"
+    ],
+    "image": "static/images/Atlapetes_melanocephalus.jpeg"
+  },
+  "Anthus_lineiventris": {
+    "hex": [
+      "#dad5c3",
+      "#3a2f16",
+      "#7d7148",
+      "#685934"
+    ],
+    "image": "static/images/Anthus_lineiventris.jpeg"
+  },
+  "Atlapetes_canigenis": {
+    "hex": [
+      "#cfcdbb",
+      "#2b2b28",
+      "#4a4742",
+      "#8b8c3a"
+    ],
+    "image": "static/images/Atlapetes_canigenis.jpeg"
+  },
+  "Psarocolius_decumanus": {
+    "hex": [
+      "#40403d",
+      "#ebeadc",
+      "#a4aa9d",
+      "#9c9c9c"
+    ],
+    "image": "static/images/Psarocolius_decumanus.jpeg"
+  },
+  "Junco_phaeonotus": {
+    "hex": [
+      "#b7b3ae",
+      "#78563c",
+      "#362d24",
+      "#734a2e"
+    ],
+    "image": "static/images/Junco_phaeonotus.jpeg"
+  },
+  "Microspingus_torquatus": {
+    "hex": [
+      "#b6b6b7",
+      "#262625",
+      "#505051",
+      "#5a5d5c"
+    ],
+    "image": "static/images/Microspingus_torquatus.jpeg"
+  },
+  "Setophaga_delicata": {
+    "hex": [
+      "#cac7a6",
+      "#646977",
+      "#847f2f",
+      "#776760"
+    ],
+    "image": "static/images/Setophaga_delicata.jpeg"
+  },
+  "Atlapetes_fuscoolivaceus": {
+    "hex": [
+      "#534f34",
+      "#f0efeb",
+      "#afb1a9",
+      "#a2a0a0"
+    ],
+    "image": "static/images/Atlapetes_fuscoolivaceus.jpeg"
+  },
+  "Chlorospingus_flavigularis": {
+    "hex": [
+      "#aca06d",
+      "#f6f5ed",
+      "#5a5241",
+      "#646464"
+    ],
+    "image": "static/images/Chlorospingus_flavigularis.jpeg"
+  },
+  "Myiothlypis_chrysogaster": {
+    "hex": [
+      "#a49d62",
+      "#f7f6ed",
+      "#4a4934",
+      "#645c3a"
+    ],
+    "image": "static/images/Myiothlypis_chrysogaster.jpeg"
+  },
+  "Geothlypis_rostrata": {
+    "hex": [
+      "#9f9a61",
+      "#f3f3eb",
+      "#1e1c1a",
+      "#544c44"
+    ],
+    "image": "static/images/Geothlypis_rostrata.jpeg"
+  },
+  "Setophaga_graciae": {
+    "hex": [
+      "#b5b6b0",
+      "#2c2e2d",
+      "#55524c",
+      "#baac43"
+    ],
+    "image": "static/images/Setophaga_graciae.jpeg"
+  },
+  "Granatellus_sallaei": {
+    "hex": [
+      "#a19c9e",
+      "#26282c",
+      "#824c41",
+      "#6c3c2e"
+    ],
+    "image": "static/images/Granatellus_sallaei.jpeg"
+  },
+  "Agelaius_humeralis": {
+    "hex": [
+      "#414249",
+      "#e5e2d8",
+      "#a3a4a6",
+      "#9c9c9c"
+    ],
+    "image": "static/images/Agelaius_humeralis.jpeg"
+  },
+  "Setophaga_subita": {
+    "hex": [
+      "#c3c0a2",
+      "#3a3a39",
+      "#d6c63f",
+      "#6c5c58"
+    ],
+    "image": "static/images/Setophaga_subita.jpeg"
+  },
+  "Casuarius_unappendiculatus": {
+    "hex": [
+      "#343735",
+      "#e7e3de",
+      "#6e8ea1",
+      "#74a2b0"
+    ],
+    "image": "static/images/Casuarius_unappendiculatus.jpeg"
+  },
+  "Arremonops_tocuyensis": {
+    "hex": [
+      "#c8c7c1",
+      "#716a45",
+      "#353226",
+      "#5d5437"
+    ],
+    "image": "static/images/Arremonops_tocuyensis.jpeg"
+  },
+  "Thraupis_sayaca": {
+    "hex": [
+      "#a9b9bb",
+      "#2c4047",
+      "#51514c",
+      "#595e54"
+    ],
+    "image": "static/images/Thraupis_sayaca.jpeg"
+  },
+  "Creurgops_dentatus": {
+    "hex": [
+      "#a1a14d",
+      "#f5f5ee",
+      "#2b3027",
+      "#5a5c4b"
+    ],
+    "image": "static/images/Creurgops_dentatus.jpeg"
+  },
+  "Spindalis_zena": {
+    "hex": [
+      "#d3d2c6",
+      "#343331",
+      "#bea447",
+      "#676154"
+    ],
+    "image": "static/images/Spindalis_zena.jpeg"
+  },
+  "Myioborus_pariae": {
+    "hex": [
+      "#c4c1a1",
+      "#4d4d49",
+      "#666060",
+      "#f0d844"
+    ],
+    "image": "static/images/Myioborus_pariae.jpeg"
+  },
+  "Spizella_passerina": {
+    "hex": [
+      "#bab3ab",
+      "#483123",
+      "#6e5944",
+      "#5c5454"
+    ],
+    "image": "static/images/Spizella_passerina.jpeg"
+  },
+  "Anthus_vaalensis": {
+    "hex": [
+      "#a08a5a",
+      "#f8f6ee",
+      "#2f2110",
+      "#5e4b24"
+    ],
+    "image": "static/images/Anthus_vaalensis.jpeg"
+  },
+  "Leistes_loyca": {
+    "hex": [
+      "#a49d9d",
+      "#282223",
+      "#5e2c27",
+      "#a34936"
+    ],
+    "image": "static/images/Leistes_loyca.jpeg"
+  },
+  "Rhynchospiza_dabbenei": {
+    "hex": [
+      "#bcb9b7",
+      "#4d3225",
+      "#795d46",
+      "#505c5c"
+    ],
+    "image": "static/images/Rhynchospiza_dabbenei.jpeg"
+  },
+  "Setophaga_ruticilla": {
+    "hex": [
+      "#5a595c",
+      "#e3d9c3",
+      "#acaca8",
+      "#a4a4ac"
+    ],
+    "image": "static/images/Setophaga_ruticilla.jpeg"
+  },
+  "Anthus_similis": {
+    "hex": [
+      "#cabea6",
+      "#423525",
+      "#7e6436",
+      "#60492c"
+    ],
+    "image": "static/images/Anthus_similis.jpeg"
+  },
+  "Zonotrichia_atricapilla": {
+    "hex": [
+      "#b4a99b",
+      "#2f2722",
+      "#665636",
+      "#584331"
+    ],
+    "image": "static/images/Zonotrichia_atricapilla.jpeg"
+  },
+  "Leistes_militaris": {
+    "hex": [
+      "#3d3b3e",
+      "#e1c6bd",
+      "#98989c",
+      "#9ea6a1"
+    ],
+    "image": "static/images/Leistes_militaris.jpeg"
+  },
+  "Chondestes_grammacus": {
+    "hex": [
+      "#c8c0b4",
+      "#392e23",
+      "#7e422f",
+      "#7a6550"
+    ],
+    "image": "static/images/Chondestes_grammacus.jpeg"
+  },
+  "Aimophila_notosticta": {
+    "hex": [
+      "#b4a898",
+      "#342418",
+      "#583f26",
+      "#6e5436"
+    ],
+    "image": "static/images/Aimophila_notosticta.jpeg"
+  },
+  "Pheucticus_ludovicianus": {
+    "hex": [
+      "#c8c8c9",
+      "#574d52",
+      "#2c2f31",
+      "#5f5e61"
+    ],
+    "image": "static/images/Pheucticus_ludovicianus.jpeg"
+  },
+  "Setophaga_coronata": {
+    "hex": [
+      "#a4a6a3",
+      "#232429",
+      "#4a403f",
+      "#908c3b"
+    ],
+    "image": "static/images/Setophaga_coronata.jpeg"
+  },
+  "Nothocercus_bonapartei": {
+    "hex": [
+      "#6b4c37",
+      "#ece5dc",
+      "#adb0af",
+      "#99a09e"
+    ],
+    "image": "static/images/Nothocercus_bonapartei.jpeg"
+  },
+  "Icterus_pyrrhopterus": {
+    "hex": [
+      "#3f4146",
+      "#e6e4e0",
+      "#9ca49c",
+      "#9c9ca4"
+    ],
+    "image": "static/images/Icterus_pyrrhopterus.jpeg"
+  },
+  "Leistes_bellicosus": {
+    "hex": [
+      "#a6a4a5",
+      "#211e1f",
+      "#533d38",
+      "#bd633d"
+    ],
+    "image": "static/images/Leistes_bellicosus.jpeg"
+  },
+  "Caryothraustes_poliogaster": {
+    "hex": [
+      "#c0c0ad",
+      "#9a9438",
+      "#363823",
+      "#5c5424"
+    ],
+    "image": "static/images/Caryothraustes_poliogaster.jpeg"
+  },
+  "Agelasticus_cyanopus": {
+    "hex": [
+      "#3c3e40",
+      "#e3e4e4",
+      "#a4a7a6",
+      "#9c9ca4"
+    ],
+    "image": "static/images/Agelasticus_cyanopus.jpeg"
+  },
+  "Anthus_pratensis": {
+    "hex": [
+      "#dad8cb",
+      "#342f1a",
+      "#625c3f",
+      "#787453"
+    ],
+    "image": "static/images/Anthus_pratensis.jpeg"
+  },
+  "Trichothraupis_melanops": {
+    "hex": [
+      "#a8a35a",
+      "#f2f2ea",
+      "#3f3b20",
+      "#544c38"
+    ],
+    "image": "static/images/Trichothraupis_melanops.jpeg"
+  },
+  "Atlapetes_crassus": {
+    "hex": [
+      "#a49f4c",
+      "#414027",
+      "#f5f4ec",
+      "#5d5a38"
+    ],
+    "image": "static/images/Atlapetes_crassus.jpeg"
+  },
+  "Myiothlypis_flaveola": {
+    "hex": [
+      "#999056",
+      "#f9f8ef",
+      "#e0d875",
+      "#cccca8"
+    ],
+    "image": "static/images/Myiothlypis_flaveola.jpeg"
+  },
+  "Cnemathraupis_eximia": {
+    "hex": [
+      "#b8a75c",
+      "#282625",
+      "#4c4842",
+      "#eaebec"
+    ],
+    "image": "static/images/Cnemathraupis_eximia.jpeg"
+  },
+  "Arremon_atricapillus": {
+    "hex": [
+      "#5a5b41",
+      "#efefeb",
+      "#a7a5a5",
+      "#b4b5a2"
+    ],
+    "image": "static/images/Arremon_atricapillus.jpeg"
+  },
+  "Peucaea_sumichrasti": {
+    "hex": [
+      "#c4b3a4",
+      "#3c2315",
+      "#6a442b",
+      "#885f3e"
+    ],
+    "image": "static/images/Peucaea_sumichrasti.jpeg"
+  },
+  "Dendronanthus_indicus": {
+    "hex": [
+      "#cac8c3",
+      "#262623",
+      "#716856",
+      "#5d584f"
+    ],
+    "image": "static/images/Dendronanthus_indicus.jpeg"
+  },
+  "Myioborus_albifrons": {
+    "hex": [
+      "#beba9e",
+      "#3b3d39",
+      "#59595a",
+      "#7c6c44"
+    ],
+    "image": "static/images/Myioborus_albifrons.jpeg"
+  },
+  "Ammodramus_savannarum": {
+    "hex": [
+      "#c2b9ab",
+      "#382e22",
+      "#624d3b",
+      "#766447"
+    ],
+    "image": "static/images/Ammodramus_savannarum.jpeg"
+  },
+  "Vidua_orientalis": {
+    "hex": [
+      "#49484e",
+      "#eceae6",
+      "#a4a4a8",
+      "#9898a4"
+    ],
+    "image": "static/images/Vidua_orientalis.jpeg"
+  },
+  "Anthus_australis": {
+    "hex": [
+      "#d6d0bd",
+      "#3b301f",
+      "#62543b",
+      "#7d6e49"
+    ],
+    "image": "static/images/Anthus_australis.jpeg"
+  },
+  "Anthus_richardi": {
+    "hex": [
+      "#d8d0b7",
+      "#4e3e21",
+      "#837043",
+      "#706d5a"
+    ],
+    "image": "static/images/Anthus_richardi.jpeg"
+  },
+  "Myiothlypis_cinereicollis": {
+    "hex": [
+      "#84816d",
+      "#f6f5ed",
+      "#e5d57d",
+      "#cab877"
+    ],
+    "image": "static/images/Myiothlypis_cinereicollis.jpeg"
+  },
+  "Oreothlypis_gutturalis": {
+    "hex": [
+      "#797a81",
+      "#e7d7c9",
+      "#4c3427",
+      "#bbbdbf"
+    ],
+    "image": "static/images/Oreothlypis_gutturalis.jpeg"
+  },
+  "Piranga_bidentata": {
+    "hex": [
+      "#b3954f",
+      "#f4f3eb",
+      "#393522",
+      "#644c1c"
+    ],
+    "image": "static/images/Piranga_bidentata.jpeg"
+  },
+  "Anthus_hoeschi": {
+    "hex": [
+      "#e5ddc5",
+      "#42351c",
+      "#98804a",
+      "#725e36"
+    ],
+    "image": "static/images/Anthus_hoeschi.jpeg"
+  },
+  "Agelasticus_xanthophthalmus": {
+    "hex": [
+      "#3b3f43",
+      "#e0e1df",
+      "#9ca49e",
+      "#9c9ca4"
+    ],
+    "image": "static/images/Agelasticus_xanthophthalmus.jpeg"
+  },
+  "Pheucticus_chrysopeplus": {
+    "hex": [
+      "#cbb44b",
+      "#36393f",
+      "#f3f4f0",
+      "#6c6444"
+    ],
+    "image": "static/images/Pheucticus_chrysopeplus.jpeg"
+  },
+  "Cacicus_haemorrhous": {
+    "hex": [
+      "#343940",
+      "#eae7e2",
+      "#9c9ca0",
+      "#8c8d94"
+    ],
+    "image": "static/images/Cacicus_haemorrhous.jpeg"
+  },
+  "Ammospiza_caudacuta": {
+    "hex": [
+      "#c5beaf",
+      "#392e1a",
+      "#7b6443",
+      "#654f36"
+    ],
+    "image": "static/images/Ammospiza_caudacuta.jpeg"
+  },
+  "Leistes_defilippii": {
+    "hex": [
+      "#4a4647",
+      "#e8d2ca",
+      "#acadac",
+      "#a09ca4"
+    ],
+    "image": "static/images/Leistes_defilippii.jpeg"
+  },
+  "Anisognathus_melanogenys": {
+    "hex": [
+      "#a7a892",
+      "#383f40",
+      "#a99933",
+      "#4c442e"
+    ],
+    "image": "static/images/Anisognathus_melanogenys.jpeg"
+  },
+  "Zeledonia_coronata": {
+    "hex": [
+      "#7e7f6a",
+      "#f2f0e8",
+      "#bcbcb0",
+      "#adb0b4"
+    ],
+    "image": "static/images/Zeledonia_coronata.jpeg"
+  },
+  "Dromaius_novaehollandiae": {
+    "hex": [
+      "#88715a",
+      "#f5f3ef",
+      "#2c241c",
+      "#c1b8ad"
+    ],
+    "image": "static/images/Dromaius_novaehollandiae.jpeg"
+  },
+  "Iridosornis_porphyrocephalus": {
+    "hex": [
+      "#aab1a6",
+      "#343c3e",
+      "#b49744",
+      "#544840"
+    ],
+    "image": "static/images/Iridosornis_porphyrocephalus.jpeg"
+  },
+  "Piranga_leucoptera": {
+    "hex": [
+      "#bb7658",
+      "#3d3839",
+      "#f5f4f0",
+      "#7a4031"
+    ],
+    "image": "static/images/Piranga_leucoptera.jpeg"
+  },
+  "Myioborus_castaneocapilla": {
+    "hex": [
+      "#9d9461",
+      "#f5f4ef",
+      "#403f39",
+      "#5c5049"
+    ],
+    "image": "static/images/Myioborus_castaneocapilla.jpeg"
+  },
+  "Ixothraupis_guttata": {
+    "hex": [
+      "#b8c096",
+      "#1e2515",
+      "#7a8635",
+      "#565151"
+    ],
+    "image": "static/images/Ixothraupis_guttata.jpeg"
+  },
+  "Tachyphonus_rufus": {
+    "hex": [
+      "#3e3f45",
+      "#e1dfde",
+      "#9a9c9a",
+      "#94949c"
+    ],
+    "image": "static/images/Tachyphonus_rufus.jpeg"
+  },
+  "Setophaga_pityophila": {
+    "hex": [
+      "#b8b8b4",
+      "#3a392f",
+      "#898246",
+      "#615431"
+    ],
+    "image": "static/images/Setophaga_pityophila.jpeg"
+  },
+  "Atlapetes_tricolor": {
+    "hex": [
+      "#a9a9a9",
+      "#252626",
+      "#4b4645",
+      "#785844"
+    ],
+    "image": "static/images/Atlapetes_tricolor.jpeg"
+  },
+  "Microspingus_melanoleucus": {
+    "hex": [
+      "#b2b3b3",
+      "#2d2c2c",
+      "#545458",
+      "#5c5c54"
+    ],
+    "image": "static/images/Microspingus_melanoleucus.jpeg"
+  },
+  "Atlapetes_melanopsis": {
+    "hex": [
+      "#a7a253",
+      "#313028",
+      "#f7f6f1",
+      "#504e44"
+    ],
+    "image": "static/images/Atlapetes_melanopsis.jpeg"
+  },
+  "Pheucticus_tibialis": {
+    "hex": [
+      "#bead4f",
+      "#353635",
+      "#f5f5ee",
+      "#5e5649"
+    ],
+    "image": "static/images/Pheucticus_tibialis.jpeg"
+  },
+  "Atlapetes_schistaceus": {
+    "hex": [
+      "#5b5b5b",
+      "#e7e5e1",
+      "#b6b7b8",
+      "#adacb4"
+    ],
+    "image": "static/images/Atlapetes_schistaceus.jpeg"
+  },
+  "Compsothraupis_loricata": {
+    "hex": [
+      "#464754",
+      "#e8e1df",
+      "#a0a8ac",
+      "#989ca4"
+    ],
+    "image": "static/images/Compsothraupis_loricata.jpeg"
+  },
+  "Icterus_abeillei": {
+    "hex": [
+      "#ddded6",
+      "#2e2f2f",
+      "#c8a442",
+      "#67605c"
+    ],
+    "image": "static/images/Icterus_abeillei.jpeg"
+  },
+  "Chalcothraupis_ruficervix": {
+    "hex": [
+      "#b0b6b7",
+      "#262d2e",
+      "#505252",
+      "#5e6451"
+    ],
+    "image": "static/images/Chalcothraupis_ruficervix.jpeg"
+  },
+  "Geothlypis_trichas": {
+    "hex": [
+      "#bbb9a0",
+      "#252424",
+      "#9d9042",
+      "#5c544c"
+    ],
+    "image": "static/images/Geothlypis_trichas.jpeg"
+  },
+  "Myiothlypis_nigrocristata": {
+    "hex": [
+      "#a49a58",
+      "#f6f5eb",
+      "#3e3922",
+      "#655c35"
+    ],
+    "image": "static/images/Myiothlypis_nigrocristata.jpeg"
+  },
+  "Emberiza_cineracea": {
+    "hex": [
+      "#bdb7a6",
+      "#7a703b",
+      "#453c2b",
+      "#5c584d"
+    ],
+    "image": "static/images/Emberiza_cineracea.jpeg"
+  },
+  "Atlapetes_leucopterus": {
+    "hex": [
+      "#bfbdb9",
+      "#40403b",
+      "#5d5c53",
+      "#5c544c"
+    ],
+    "image": "static/images/Atlapetes_leucopterus.jpeg"
+  },
+  "Icterus_croconotus": {
+    "hex": [
+      "#dfdbd2",
+      "#322e2b",
+      "#c68733",
+      "#754c20"
+    ],
+    "image": "static/images/Icterus_croconotus.jpeg"
+  },
+  "Motacilla_samveasnae": {
+    "hex": [
+      "#d7d8da",
+      "#181818",
+      "#67686a",
+      "#6c746c"
+    ],
+    "image": "static/images/Motacilla_samveasnae.jpeg"
+  },
+  "Tachyphonus_surinamus": {
+    "hex": [
+      "#37373e",
+      "#eae9dc",
+      "#989e90",
+      "#94949c"
+    ],
+    "image": "static/images/Tachyphonus_surinamus.jpeg"
+  },
+  "Melospiza_lincolnii": {
+    "hex": [
+      "#bab0a1",
+      "#392b1c",
+      "#675235",
+      "#544c4c"
+    ],
+    "image": "static/images/Melospiza_lincolnii.jpeg"
+  },
+  "Motacilla_aguimp": {
+    "hex": [
+      "#d2d3d4",
+      "#232222",
+      "#5a5a5c",
+      "#6c6c6c"
+    ],
+    "image": "static/images/Motacilla_aguimp.jpeg"
+  },
+  "Chlorochrysa_calliparaea": {
+    "hex": [
+      "#909f6f",
+      "#e5ecea",
+      "#27342d",
+      "#66461e"
+    ],
+    "image": "static/images/Chlorochrysa_calliparaea.jpeg"
+  },
+  "Icterus_auratus": {
+    "hex": [
+      "#c79d4d",
+      "#36312b",
+      "#f2f2ed",
+      "#7c462c"
+    ],
+    "image": "static/images/Icterus_auratus.jpeg"
+  },
+  "Atlapetes_semirufus": {
+    "hex": [
+      "#a79e51",
+      "#4d4e2d",
+      "#f6f5ef",
+      "#645c3c"
+    ],
+    "image": "static/images/Atlapetes_semirufus.jpeg"
+  },
+  "Ixothraupis_punctata": {
+    "hex": [
+      "#a6b6bc",
+      "#303a42",
+      "#525156",
+      "#8e7850"
+    ],
+    "image": "static/images/Ixothraupis_punctata.jpeg"
+  },
+  "Nemosia_pileata": {
+    "hex": [
+      "#cdcdcd",
+      "#37393e",
+      "#92542c",
+      "#a87246"
+    ],
+    "image": "static/images/Nemosia_pileata.jpeg"
+  },
+  "Granatellus_pelzelni": {
+    "hex": [
+      "#817072",
+      "#f0efee",
+      "#23211d",
+      "#bfbabe"
+    ],
+    "image": "static/images/Granatellus_pelzelni.jpeg"
+  },
+  "Nesospingus_speculiferus": {
+    "hex": [
+      "#d3d2c6",
+      "#343331",
+      "#bea447",
+      "#676154"
+    ],
+    "image": "static/images/Nesospingus_speculiferus.jpeg"
+  },
+  "Spizella_wortheni": {
+    "hex": [
+      "#c9c0b8",
+      "#2f241a",
+      "#7d654d",
+      "#6c5239"
+    ],
+    "image": "static/images/Spizella_wortheni.jpeg"
+  },
+  "Myiothlypis_basilica": {
+    "hex": [
+      "#9d9556",
+      "#f3f3eb",
+      "#353634",
+      "#605424"
+    ],
+    "image": "static/images/Myiothlypis_basilica.jpeg"
+  },
+  "Setophaga_flavescens": {
+    "hex": [
+      "#c1b99e",
+      "#42392f",
+      "#d0bc32",
+      "#586070"
+    ],
+    "image": "static/images/Setophaga_flavescens.jpeg"
+  },
+  "Tachyphonus_coronatus": {
+    "hex": [
+      "#4c505f",
+      "#e7e7e7",
+      "#a4acac",
+      "#94a4b4"
+    ],
+    "image": "static/images/Tachyphonus_coronatus.jpeg"
+  },
+  "Periporphyrus_erythromelas": {
+    "hex": [
+      "#965439",
+      "#f5f2ed",
+      "#2f2e31",
+      "#a09fa0"
+    ],
+    "image": "static/images/Periporphyrus_erythromelas.jpeg"
+  },
+  "Psarocolius_montezuma": {
+    "hex": [
+      "#755d3d",
+      "#f2f1e7",
+      "#24221a",
+      "#abaaa6"
+    ],
+    "image": "static/images/Psarocolius_montezuma.jpeg"
+  },
+  "Psarocolius_angustifrons": {
+    "hex": [
+      "#7d7856",
+      "#f3f2ea",
+      "#2e3022",
+      "#443c2c"
+    ],
+    "image": "static/images/Psarocolius_angustifrons.jpeg"
+  },
+  "Setophaga_pharetra": {
+    "hex": [
+      "#b0b0ae",
+      "#292929",
+      "#545454",
+      "#5e5e5c"
+    ],
+    "image": "static/images/Setophaga_pharetra.jpeg"
+  },
+  "Zonotrichia_albicollis": {
+    "hex": [
+      "#c3bab0",
+      "#322213",
+      "#7a5d3f",
+      "#5d442e"
+    ],
+    "image": "static/images/Zonotrichia_albicollis.jpeg"
+  },
+  "Apteryx_australis": {
+    "hex": [
+      "#514c43",
+      "#edebe7",
+      "#a4a4a4",
+      "#a49c94"
+    ],
+    "image": "static/images/Apteryx_australis.jpeg"
+  },
+  "Geothlypis_formosa": {
+    "hex": [
+      "#a3995a",
+      "#f8f7ef",
+      "#292919",
+      "#6c542c"
+    ],
+    "image": "static/images/Geothlypis_formosa.jpeg"
+  },
+  "Icterus_icterus": {
+    "hex": [
+      "#d8d8cd",
+      "#242525",
+      "#cd9f37",
+      "#785024"
+    ],
+    "image": "static/images/Icterus_icterus.jpeg"
+  },
+  "Passerina_cyanea": {
+    "hex": [
+      "#5e75a0",
+      "#edeff0",
+      "#1e2635",
+      "#acbcd4"
+    ],
+    "image": "static/images/Passerina_cyanea.jpeg"
+  },
+  "Pseudoleistes_virescens": {
+    "hex": [
+      "#4e4233",
+      "#eee7ca",
+      "#aca4a0",
+      "#a09c9c"
+    ],
+    "image": "static/images/Pseudoleistes_virescens.jpeg"
+  },
+  "Cacicus_solitarius": {
+    "hex": [
+      "#363c45",
+      "#e8eaea",
+      "#989ca4",
+      "#9ca4a4"
+    ],
+    "image": "static/images/Cacicus_solitarius.jpeg"
+  },
+  "Apteryx_owenii": {
+    "hex": [
+      "#716353",
+      "#f2f0ed",
+      "#c0b8a8",
+      "#c4aca4"
+    ],
+    "image": "static/images/Apteryx_owenii.jpeg"
+  },
+  "Zonotrichia_querula": {
+    "hex": [
+      "#b4ada4",
+      "#24201d",
+      "#655540",
+      "#514335"
+    ],
+    "image": "static/images/Zonotrichia_querula.jpeg"
+  },
+  "Dubusia_taeniata": {
+    "hex": [
+      "#afadaf",
+      "#373c45",
+      "#ce8f44",
+      "#5a545a"
+    ],
+    "image": "static/images/Dubusia_taeniata.jpeg"
+  },
+  "Setophaga_vitellina": {
+    "hex": [
+      "#b3a867",
+      "#f7f6ee",
+      "#3a3226",
+      "#5c5c14"
+    ],
+    "image": "static/images/Setophaga_vitellina.jpeg"
+  },
+  "Buthraupis_montana": {
+    "hex": [
+      "#c8c9b4",
+      "#8d8b48",
+      "#56648e",
+      "#646464"
+    ],
+    "image": "static/images/Buthraupis_montana.jpeg"
+  },
+  "Icterus_chrysater": {
+    "hex": [
+      "#e9e2a6",
+      "#44473d",
+      "#d7c741",
+      "#7c6c44"
+    ],
+    "image": "static/images/Icterus_chrysater.jpeg"
+  },
+  "Geothlypis_philadelphia": {
+    "hex": [
+      "#a39c5e",
+      "#f6f4ee",
+      "#474d48",
+      "#6c5c44"
+    ],
+    "image": "static/images/Geothlypis_philadelphia.jpeg"
+  },
+  "Stephanophorus_diadematus": {
+    "hex": [
+      "#6d7f9a",
+      "#eeecd9",
+      "#40382e",
+      "#b0c8dc"
+    ],
+    "image": "static/images/Stephanophorus_diadematus.jpeg"
+  },
+  "Icterus_graceannae": {
+    "hex": [
+      "#31312d",
+      "#e3dfc2",
+      "#e8cb37",
+      "#81694c"
+    ],
+    "image": "static/images/Icterus_graceannae.jpeg"
+  },
+  "Sturnella_lilianae": {
+    "hex": [
+      "#d7d4c7",
+      "#322d23",
+      "#c5b44a",
+      "#6d624d"
+    ],
+    "image": "static/images/Sturnella_lilianae.jpeg"
+  },
+  "Vidua_obtusa": {
+    "hex": [
+      "#3c3a3d",
+      "#e8e5df",
+      "#a19f98",
+      "#8c9494"
+    ],
+    "image": "static/images/Vidua_obtusa.jpeg"
+  },
+  "Ramphocelus_passerinii": {
+    "hex": [
+      "#a65540",
+      "#353233",
+      "#f3f0ed",
+      "#b8a9a9"
+    ],
+    "image": "static/images/Ramphocelus_passerinii.jpeg"
+  },
+  "Molothrus_oryzivorus": {
+    "hex": [
+      "#4e515f",
+      "#edeeef",
+      "#aaadb0",
+      "#9a9cac"
+    ],
+    "image": "static/images/Molothrus_oryzivorus.jpeg"
+  },
+  "Icterus_galbula": {
+    "hex": [
+      "#cfc9b3",
+      "#2e302c",
+      "#d29739",
+      "#6a5c38"
+    ],
+    "image": "static/images/Icterus_galbula.jpeg"
+  },
+  "Cardellina_pusilla": {
+    "hex": [
+      "#ab9f53",
+      "#f8f7ee",
+      "#36312b",
+      "#485454"
+    ],
+    "image": "static/images/Cardellina_pusilla.jpeg"
+  },
+  "Pheucticus_aureoventris": {
+    "hex": [
+      "#3b3a33",
+      "#e0d897",
+      "#9e9d79",
+      "#96929e"
+    ],
+    "image": "static/images/Pheucticus_aureoventris.jpeg"
+  },
+  "Anthus_roseatus": {
+    "hex": [
+      "#cccabe",
+      "#31321f",
+      "#5c5944",
+      "#68684f"
+    ],
+    "image": "static/images/Anthus_roseatus.jpeg"
+  },
+  "Atlapetes_nationi": {
+    "hex": [
+      "#aeacad",
+      "#2b2b2d",
+      "#9f673e",
+      "#80472d"
+    ],
+    "image": "static/images/Atlapetes_nationi.jpeg"
+  },
+  "Cardinalis_sinuatus": {
+    "hex": [
+      "#b9b2ab",
+      "#5c392c",
+      "#8e5f44",
+      "#5c5454"
+    ],
+    "image": "static/images/Cardinalis_sinuatus.jpeg"
+  },
+  "Ramphocelus_sanguinolentus": {
+    "hex": [
+      "#434449",
+      "#e4d7d0",
+      "#a0a8a8",
+      "#8c9cac"
+    ],
+    "image": "static/images/Ramphocelus_sanguinolentus.jpeg"
+  },
+  "Cacicus_oseryi": {
+    "hex": [
+      "#86734b",
+      "#f4f3ed",
+      "#271d0f",
+      "#4d3720"
+    ],
+    "image": "static/images/Cacicus_oseryi.jpeg"
+  },
+  "Anthus_nyassae": {
+    "hex": [
+      "#cfc3a5",
+      "#3c2c13",
+      "#7f6a36",
+      "#675131"
+    ],
+    "image": "static/images/Anthus_nyassae.jpeg"
+  },
+  "Atlapetes_albinucha": {
+    "hex": [
+      "#525254",
+      "#eeede6",
+      "#acaca0",
+      "#a4a4ac"
+    ],
+    "image": "static/images/Atlapetes_albinucha.jpeg"
+  },
+  "Cyanoloxia_glaucocaerulea": {
+    "hex": [
+      "#4b5d78",
+      "#eef0ee",
+      "#869ec9",
+      "#a4b4c4"
+    ],
+    "image": "static/images/Cyanoloxia_glaucocaerulea.jpeg"
+  },
+  "Macroagelaius_imthurni": {
+    "hex": [
+      "#46474e",
+      "#eaeaeb",
+      "#a4acac",
+      "#a4a4a4"
+    ],
+    "image": "static/images/Macroagelaius_imthurni.jpeg"
+  },
+  "Nothocercus_nigrocapillus": {
+    "hex": [
+      "#724f3b",
+      "#f3f1ed",
+      "#b3b0ab",
+      "#9ea49e"
+    ],
+    "image": "static/images/Nothocercus_nigrocapillus.jpeg"
+  },
+  "Melozone_crissalis": {
+    "hex": [
+      "#797368",
+      "#f4f3ef",
+      "#2d2821",
+      "#463c34"
+    ],
+    "image": "static/images/Melozone_crissalis.jpeg"
+  },
+  "Arremonops_rufivirgatus": {
+    "hex": [
+      "#b9b8ad",
+      "#686a3a",
+      "#323324",
+      "#4d4c2a"
+    ],
+    "image": "static/images/Arremonops_rufivirgatus.jpeg"
+  },
+  "Lanio_aurantius": {
+    "hex": [
+      "#d5d4b3",
+      "#37383a",
+      "#595b61",
+      "#cfc746"
+    ],
+    "image": "static/images/Lanio_aurantius.jpeg"
+  },
+  "Basileuterus_melanogenys": {
+    "hex": [
+      "#b2afa5",
+      "#353133",
+      "#685e49",
+      "#544c54"
+    ],
+    "image": "static/images/Basileuterus_melanogenys.jpeg"
+  },
+  "Basileuterus_rufifrons": {
+    "hex": [
+      "#cdc7ac",
+      "#82743e",
+      "#766453",
+      "#3a3c36"
+    ],
+    "image": "static/images/Basileuterus_rufifrons.jpeg"
+  },
+  "Pipilo_erythrophthalmus": {
+    "hex": [
+      "#4b3e3c",
+      "#e8e7e5",
+      "#adabab",
+      "#989ca4"
+    ],
+    "image": "static/images/Pipilo_erythrophthalmus.jpeg"
+  },
+  "Icterus_graduacauda": {
+    "hex": [
+      "#d8d39d",
+      "#2c302b",
+      "#5e614f",
+      "#aca235"
+    ],
+    "image": "static/images/Icterus_graduacauda.jpeg"
+  },
+  "Spiza_americana": {
+    "hex": [
+      "#b0aea6",
+      "#2c2620",
+      "#64452f",
+      "#795c39"
+    ],
+    "image": "static/images/Spiza_americana.jpeg"
+  },
+  "Sphenopsis_melanotis": {
+    "hex": [
+      "#b5a46b",
+      "#f2f1ea",
+      "#444135",
+      "#695c3d"
+    ],
+    "image": "static/images/Sphenopsis_melanotis.jpeg"
+  },
+  "Arremon_dorbignii": {
+    "hex": [
+      "#bdbebb",
+      "#31312a",
+      "#706f3c",
+      "#565441"
+    ],
+    "image": "static/images/Arremon_dorbignii.jpeg"
+  },
+  "Anthus_godlewskii": {
+    "hex": [
+      "#d0c6ab",
+      "#372c16",
+      "#7f6b3d",
+      "#6f5838"
+    ],
+    "image": "static/images/Anthus_godlewskii.jpeg"
+  },
+  "Anthus_ruficollis": {
+    "hex": [
+      "#bab7b0",
+      "#6f6433",
+      "#2f2914",
+      "#4e4221"
+    ],
+    "image": "static/images/Anthus_ruficollis.jpeg"
+  },
+  "Basileuterus_trifasciatus": {
+    "hex": [
+      "#7c7a5b",
+      "#f3f3ec",
+      "#e0d17a",
+      "#b8bda5"
+    ],
+    "image": "static/images/Basileuterus_trifasciatus.jpeg"
+  },
+  "Atlapetes_albiceps": {
+    "hex": [
+      "#a7a6a7",
+      "#313134",
+      "#986339",
+      "#6c3e1e"
+    ],
+    "image": "static/images/Atlapetes_albiceps.jpeg"
+  },
+  "Pheucticus_melanocephalus": {
+    "hex": [
+      "#a68659",
+      "#36332f",
+      "#f2f1ec",
+      "#5b432a"
+    ],
+    "image": "static/images/Pheucticus_melanocephalus.jpeg"
+  },
+  "Vermivora_bachmanii": {
+    "hex": [
+      "#70734b",
+      "#f1f0db",
+      "#babd6e",
+      "#b0b0ac"
+    ],
+    "image": "static/images/Vermivora_bachmanii.jpeg"
+  },
+  "Emberiza_cabanisi": {
+    "hex": [
+      "#b6a85a",
+      "#3b3431",
+      "#f2f1eb",
+      "#645549"
+    ],
+    "image": "static/images/Emberiza_cabanisi.jpeg"
+  },
+  "Casuarius_casuarius": {
+    "hex": [
+      "#333735",
+      "#e6e3dd",
+      "#959d9f",
+      "#5c88a4"
+    ],
+    "image": "static/images/Casuarius_casuarius.jpeg"
+  },
+  "Passerina_caerulea": {
+    "hex": [
+      "#56638d",
+      "#eef1f2",
+      "#362c2e",
+      "#aab6c4"
+    ],
+    "image": "static/images/Passerina_caerulea.jpeg"
+  },
+  "Bangsia_flavovirens": {
+    "hex": [
+      "#cac9bb",
+      "#313336",
+      "#605f5a",
+      "#cc8531"
+    ],
+    "image": "static/images/Bangsia_flavovirens.jpeg"
+  },
+  "Cyanoloxia_rothschildii": {
+    "hex": [
+      "#424e65",
+      "#f1f3f4",
+      "#a0aec2",
+      "#8a9aba"
+    ],
+    "image": "static/images/Cyanoloxia_rothschildii.jpeg"
+  },
+  "Pipraeidea_melanonota": {
+    "hex": [
+      "#bec2a9",
+      "#3e474d",
+      "#a09c46",
+      "#5e5c4c"
+    ],
+    "image": "static/images/Pipraeidea_melanonota.jpeg"
+  },
+  "Motacilla_flava": {
+    "hex": [
+      "#c1b651",
+      "#2c2b1d",
+      "#f5f5ed",
+      "#746c44"
+    ],
+    "image": "static/images/Motacilla_flava.jpeg"
+  },
+  "Arremon_flavirostris": {
+    "hex": [
+      "#d8d8d4",
+      "#3a382b",
+      "#787744",
+      "#5e5b3c"
+    ],
+    "image": "static/images/Arremon_flavirostris.jpeg"
+  },
+  "Gymnomystax_mexicanus": {
+    "hex": [
+      "#4b4c4d",
+      "#cec04d",
+      "#f3f3ed",
+      "#6c643c"
+    ],
+    "image": "static/images/Gymnomystax_mexicanus.jpeg"
+  },
+  "Cardellina_rubrifrons": {
+    "hex": [
+      "#b2b0af",
+      "#723229",
+      "#94513b",
+      "#545454"
+    ],
+    "image": "static/images/Cardellina_rubrifrons.jpeg"
+  },
+  "Chlorornis_riefferii": {
+    "hex": [
+      "#9a9e68",
+      "#2d2f28",
+      "#e8eced",
+      "#504b43"
+    ],
+    "image": "static/images/Chlorornis_riefferii.jpeg"
+  },
+  "Vidua_paradisaea": {
+    "hex": [
+      "#48484a",
+      "#ebeae6",
+      "#a5a5a7",
+      "#98989c"
+    ],
+    "image": "static/images/Vidua_paradisaea.jpeg"
+  },
+  "Parkesia_motacilla": {
+    "hex": [
+      "#b2aba0",
+      "#4a4133",
+      "#60534c",
+      "#54524d"
+    ],
+    "image": "static/images/Parkesia_motacilla.jpeg"
+  },
+  "Cacicus_chrysonotus": {
+    "hex": [
+      "#42494d",
+      "#ebead0",
+      "#a4ac7c",
+      "#a4a4ac"
+    ],
+    "image": "static/images/Cacicus_chrysonotus.jpeg"
+  },
+  "Phaenicophilus_palmarum": {
+    "hex": [
+      "#c2c2b1",
+      "#a6a545",
+      "#32322f",
+      "#5c543c"
+    ],
+    "image": "static/images/Phaenicophilus_palmarum.jpeg"
+  },
+  "Torreornis_inexpectata": {
+    "hex": [
+      "#948765",
+      "#f8f7ef",
+      "#3c2e24",
+      "#58442e"
+    ],
+    "image": "static/images/Torreornis_inexpectata.jpeg"
+  },
+  "Cyanicterus_cyanicterus": {
+    "hex": [
+      "#bdba6f",
+      "#404858",
+      "#eeefec",
+      "#5f6165"
+    ],
+    "image": "static/images/Cyanicterus_cyanicterus.jpeg"
+  },
+  "Arremonops_chloronotus": {
+    "hex": [
+      "#c0c0b7",
+      "#75723e",
+      "#25241b",
+      "#544c1c"
+    ],
+    "image": "static/images/Arremonops_chloronotus.jpeg"
+  },
+  "Cacicus_koepckeae": {
+    "hex": [
+      "#3b424b",
+      "#ededde",
+      "#a1a6a4",
+      "#94949c"
+    ],
+    "image": "static/images/Cacicus_koepckeae.jpeg"
+  },
+  "Setophaga_pinus": {
+    "hex": [
+      "#bdba9c",
+      "#a09337",
+      "#34332a",
+      "#5c540c"
+    ],
+    "image": "static/images/Setophaga_pinus.jpeg"
+  },
+  "Myiothlypis_leucophrys": {
+    "hex": [
+      "#dad8cd",
+      "#796c47",
+      "#767574",
+      "#848685"
+    ],
+    "image": "static/images/Myiothlypis_leucophrys.jpeg"
+  },
+  "Struthio_molybdophanes": {
+    "hex": [
+      "#3d4241",
+      "#ebeae6",
+      "#a5a8a6",
+      "#84929c"
+    ],
+    "image": "static/images/Struthio_molybdophanes.jpeg"
+  },
+  "Tachyphonus_phoenicius": {
+    "hex": [
+      "#897e65",
+      "#f3f3ee",
+      "#2f2f31",
+      "#4c3c41"
+    ],
+    "image": "static/images/Tachyphonus_phoenicius.jpeg"
+  },
+  "Arremon_basilicus": {
+    "hex": [
+      "#555841",
+      "#e9eae8",
+      "#a1a7a8",
+      "#afb7b6"
+    ],
+    "image": "static/images/Arremon_basilicus.jpeg"
+  },
+  "Icterus_spurius": {
+    "hex": [
+      "#775749",
+      "#eaeae9",
+      "#2b2b2c",
+      "#abacae"
+    ],
+    "image": "static/images/Icterus_spurius.jpeg"
+  },
+  "Amaurospiza_concolor": {
+    "hex": [
+      "#525662",
+      "#e5e7e5",
+      "#a2a4ac",
+      "#a4acb4"
+    ],
+    "image": "static/images/Amaurospiza_concolor.jpeg"
+  },
+  "Chlorospingus_tacarcunae": {
+    "hex": [
+      "#b0a85f",
+      "#f1f0e9",
+      "#3e3d2e",
+      "#64543c"
+    ],
+    "image": "static/images/Chlorospingus_tacarcunae.jpeg"
+  },
+  "Emberiza_stewarti": {
+    "hex": [
+      "#cec8c4",
+      "#362c26",
+      "#684d3a",
+      "#78624d"
+    ],
+    "image": "static/images/Emberiza_stewarti.jpeg"
+  },
+  "Atlapetes_pallidinucha": {
+    "hex": [
+      "#c5c4c2",
+      "#333231",
+      "#635549",
+      "#966a41"
+    ],
+    "image": "static/images/Atlapetes_pallidinucha.jpeg"
+  },
+  "Cacicus_chrysopterus": {
+    "hex": [
+      "#3a4043",
+      "#ececd8",
+      "#a3a69e",
+      "#8c949c"
+    ],
+    "image": "static/images/Cacicus_chrysopterus.jpeg"
+  },
+  "Ramphocelus_flammigerus": {
+    "hex": [
+      "#3d3f42",
+      "#e0cbc5",
+      "#9cacb8",
+      "#949ca4"
+    ],
+    "image": "static/images/Ramphocelus_flammigerus.jpeg"
+  },
+  "Pipilo_ocai": {
+    "hex": [
+      "#796f50",
+      "#f3efd2",
+      "#2c2418",
+      "#b7b6b2"
+    ],
+    "image": "static/images/Pipilo_ocai.jpeg"
+  },
+  "Setophaga_tigrina": {
+    "hex": [
+      "#c3bfa2",
+      "#3c3824",
+      "#8d802e",
+      "#5c522e"
+    ],
+    "image": "static/images/Setophaga_tigrina.jpeg"
+  },
+  "Atlapetes_taczanowskii": {
+    "hex": [
+      "#a1995d",
+      "#363536",
+      "#f5f4ee",
+      "#555253"
+    ],
+    "image": "static/images/Atlapetes_taczanowskii.jpeg"
+  },
+  "Peucaea_ruficauda": {
+    "hex": [
+      "#d0c4b2",
+      "#4e3822",
+      "#8a673f",
+      "#5c5c5c"
+    ],
+    "image": "static/images/Peucaea_ruficauda.jpeg"
+  },
+  "Driophlox_gutturalis": {
+    "hex": [
+      "#585552",
+      "#ece4dc",
+      "#a6a4a4",
+      "#acacac"
+    ],
+    "image": "static/images/Driophlox_gutturalis.jpeg"
+  },
+  "Spindalis_nigricephala": {
+    "hex": [
+      "#d5d1a8",
+      "#2e2e26",
+      "#d0b640",
+      "#666350"
+    ],
+    "image": "static/images/Spindalis_nigricephala.jpeg"
+  },
+  "Myioborus_flavivertex": {
+    "hex": [
+      "#5e5e50",
+      "#eae2b0",
+      "#b4b4a2",
+      "#acacb0"
+    ],
+    "image": "static/images/Myioborus_flavivertex.jpeg"
+  },
+  "Oporornis_agilis": {
+    "hex": [
+      "#c1bb96",
+      "#837936",
+      "#343425",
+      "#664c3e"
+    ],
+    "image": "static/images/Oporornis_agilis.jpeg"
+  },
+  "Paroaria_gularis": {
+    "hex": [
+      "#323842",
+      "#e1e2e3",
+      "#7a5555",
+      "#707474"
+    ],
+    "image": "static/images/Paroaria_gularis.jpeg"
+  },
+  "Chlorochrysa_nitidissima": {
+    "hex": [
+      "#c3cfda",
+      "#485d7b",
+      "#646c6c",
+      "#64646c"
+    ],
+    "image": "static/images/Chlorochrysa_nitidissima.jpeg"
+  },
+  "Setophaga_striata": {
+    "hex": [
+      "#b9b9b5",
+      "#3c3c3d",
+      "#64544c",
+      "#8c7c54"
+    ],
+    "image": "static/images/Setophaga_striata.jpeg"
+  },
+  "Basileuterus_lachrymosus": {
+    "hex": [
+      "#8a856d",
+      "#f1f0ec",
+      "#24221f",
+      "#4c443c"
+    ],
+    "image": "static/images/Basileuterus_lachrymosus.jpeg"
+  },
+  "Basileuterus_culicivorus": {
+    "hex": [
+      "#a09c71",
+      "#f8f7f0",
+      "#484237",
+      "#545844"
+    ],
+    "image": "static/images/Basileuterus_culicivorus.jpeg"
+  },
+  "Lampropsar_tanagrinus": {
+    "hex": [
+      "#3a3c45",
+      "#e8e8e9",
+      "#9ca49c",
+      "#9c9ca4"
+    ],
+    "image": "static/images/Lampropsar_tanagrinus.jpeg"
+  },
+  "Centronyx_bairdii": {
+    "hex": [
+      "#c2bcb0",
+      "#372e1c",
+      "#726046",
+      "#5c503c"
+    ],
+    "image": "static/images/Centronyx_bairdii.jpeg"
+  },
+  "Motacilla_alba": {
+    "hex": [
+      "#b8bbbe",
+      "#171717",
+      "#4e5151",
+      "#5c5d5c"
+    ],
+    "image": "static/images/Motacilla_alba.jpeg"
+  },
+  "Kleinothraupis_parodii": {
+    "hex": [
+      "#a5a350",
+      "#f1f1e9",
+      "#2f322e",
+      "#54542d"
+    ],
+    "image": "static/images/Kleinothraupis_parodii.jpeg"
+  },
+  "Calyptophilus_frugivorus": {
+    "hex": [
+      "#cbcbbc",
+      "#383838",
+      "#acab49",
+      "#5d5a56"
+    ],
+    "image": "static/images/Calyptophilus_frugivorus.jpeg"
+  },
+  "Ixothraupis_xanthogastra": {
+    "hex": [
+      "#b4ba9b",
+      "#242a16",
+      "#626e35",
+      "#54514e"
+    ],
+    "image": "static/images/Ixothraupis_xanthogastra.jpeg"
+  },
+  "Geothlypis_aequinoctialis": {
+    "hex": [
+      "#a69e57",
+      "#f6f6ee",
+      "#3e3c2f",
+      "#685c18"
+    ],
+    "image": "static/images/Geothlypis_aequinoctialis.jpeg"
+  },
+  "Melospiza_georgiana": {
+    "hex": [
+      "#937e68",
+      "#f3f2ed",
+      "#472916",
+      "#4c4a46"
+    ],
+    "image": "static/images/Melospiza_georgiana.jpeg"
+  },
+  "Leiothlypis_celata": {
+    "hex": [
+      "#969378",
+      "#f6f6f0",
+      "#373424",
+      "#584038"
+    ],
+    "image": "static/images/Leiothlypis_celata.jpeg"
+  },
+  "Anisognathus_lacrymosus": {
+    "hex": [
+      "#443f43",
+      "#dfb9ac",
+      "#7887b4",
+      "#a3a6ab"
+    ],
+    "image": "static/images/Anisognathus_lacrymosus.jpeg"
+  },
+  "Passerina_amoena": {
+    "hex": [
+      "#b8bfc8",
+      "#35475e",
+      "#9c7a54",
+      "#5c5c5c"
+    ],
+    "image": "static/images/Passerina_amoena.jpeg"
+  },
+  "Chlorothraupis_carmioli": {
+    "hex": [
+      "#a6a55e",
+      "#f3f2eb",
+      "#2d2a1d",
+      "#5e5c44"
+    ],
+    "image": "static/images/Chlorothraupis_carmioli.jpeg"
+  },
+  "Spindalis_dominicensis": {
+    "hex": [
+      "#cdc9ab",
+      "#323025",
+      "#ab8e3e",
+      "#6e5832"
+    ],
+    "image": "static/images/Spindalis_dominicensis.jpeg"
+  },
+  "Setophaga_cerulea": {
+    "hex": [
+      "#acb2be",
+      "#292e39",
+      "#4c545c",
+      "#4c4c58"
+    ],
+    "image": "static/images/Setophaga_cerulea.jpeg"
+  },
+  "Spizella_pusilla": {
+    "hex": [
+      "#c9bfb5",
+      "#453324",
+      "#7c6449",
+      "#66513e"
+    ],
+    "image": "static/images/Spizella_pusilla.jpeg"
+  },
+  "Atlapetes_rufigenis": {
+    "hex": [
+      "#8a8551",
+      "#f4f4ed",
+      "#343426",
+      "#4d4a37"
+    ],
+    "image": "static/images/Atlapetes_rufigenis.jpeg"
+  },
+  "Chrysomus_ruficapillus": {
+    "hex": [
+      "#4b494b",
+      "#eeeeef",
+      "#a4a4a8",
+      "#9c9ca4"
+    ],
+    "image": "static/images/Chrysomus_ruficapillus.jpeg"
+  },
+  "Motacilla_bocagii": {
+    "hex": [
+      "#c0b1a1",
+      "#362a29",
+      "#513f3a",
+      "#966c3a"
+    ],
+    "image": "static/images/Motacilla_bocagii.jpeg"
+  },
+  "Piranga_roseogularis": {
+    "hex": [
+      "#cfc4bc",
+      "#984c43",
+      "#2c2422",
+      "#af634f"
+    ],
+    "image": "static/images/Piranga_roseogularis.jpeg"
+  },
+  "Calcarius_lapponicus": {
+    "hex": [
+      "#bfbcb7",
+      "#303233",
+      "#664c41",
+      "#655c4f"
+    ],
+    "image": "static/images/Calcarius_lapponicus.jpeg"
+  },
+  "Amaurospiza_aequatorialis": {
+    "hex": [
+      "#474f64",
+      "#eaebec",
+      "#a4acb4",
+      "#8c9cb4"
+    ],
+    "image": "static/images/Amaurospiza_aequatorialis.jpeg"
+  },
+  "Icterus_melanopsis": {
+    "hex": [
+      "#414546",
+      "#e7e5d4",
+      "#a0a598",
+      "#9c9ca4"
+    ],
+    "image": "static/images/Icterus_melanopsis.jpeg"
+  },
+  "Myiothlypis_luteoviridis": {
+    "hex": [
+      "#807b5b",
+      "#f5f5ee",
+      "#e3d273",
+      "#c9b666"
+    ],
+    "image": "static/images/Myiothlypis_luteoviridis.jpeg"
+  },
+  "Thraupis_palmarum": {
+    "hex": [
+      "#9bb175",
+      "#f0f3ee",
+      "#2e362b",
+      "#58544d"
+    ],
+    "image": "static/images/Thraupis_palmarum.jpeg"
+  },
+  "Bangsia_rothschildi": {
+    "hex": [
+      "#909264",
+      "#e1e4e6",
+      "#2f3438",
+      "#4c4a3c"
+    ],
+    "image": "static/images/Bangsia_rothschildi.jpeg"
+  },
+  "Plectrophenax_hyperboreus": {
+    "hex": [
+      "#dfdfe0",
+      "#444546",
+      "#747474",
+      "#7c7c7c"
+    ],
+    "image": "static/images/Plectrophenax_hyperboreus.jpeg"
+  },
+  "Mitrospingus_oleagineus": {
+    "hex": [
+      "#a29957",
+      "#edede7",
+      "#444234",
+      "#5c4c2c"
+    ],
+    "image": "static/images/Mitrospingus_oleagineus.jpeg"
+  },
+  "Setophaga_angelae": {
+    "hex": [
+      "#a1a2a5",
+      "#2b2d33",
+      "#44444c",
+      "#4a4c49"
+    ],
+    "image": "static/images/Setophaga_angelae.jpeg"
+  },
+  "Curaeus_curaeus": {
+    "hex": [
+      "#43444b",
+      "#e9e9eb",
+      "#a4a4a7",
+      "#9c9ca4"
+    ],
+    "image": "static/images/Curaeus_curaeus.jpeg"
+  },
+  "Paroaria_dominicana": {
+    "hex": [
+      "#323437",
+      "#e5e4e3",
+      "#914e3f",
+      "#74746c"
+    ],
+    "image": "static/images/Paroaria_dominicana.jpeg"
+  },
+  "Ramphocelus_dimidiatus": {
+    "hex": [
+      "#a76142",
+      "#353439",
+      "#f7f5f1",
+      "#baacab"
+    ],
+    "image": "static/images/Ramphocelus_dimidiatus.jpeg"
+  },
+  "Leiothlypis_ruficapilla": {
+    "hex": [
+      "#a39d61",
+      "#f4f4ec",
+      "#2c2a17",
+      "#544c0c"
+    ],
+    "image": "static/images/Leiothlypis_ruficapilla.jpeg"
+  },
+  "Neothraupis_fasciata": {
+    "hex": [
+      "#56585f",
+      "#e4e5e3",
+      "#aaafaf",
+      "#a4a4b4"
+    ],
+    "image": "static/images/Neothraupis_fasciata.jpeg"
+  },
+  "Caryothraustes_canadensis": {
+    "hex": [
+      "#99933f",
+      "#f6f5ec",
+      "#2b291a",
+      "#544c22"
+    ],
+    "image": "static/images/Caryothraustes_canadensis.jpeg"
+  },
+  "Quiscalus_nicaraguensis": {
+    "hex": [
+      "#474f63",
+      "#f0f0f1",
+      "#8092bd",
+      "#a4aca4"
+    ],
+    "image": "static/images/Quiscalus_nicaraguensis.jpeg"
+  },
+  "Myioborus_miniatus": {
+    "hex": [
+      "#615c5e",
+      "#deb6ad",
+      "#b4b8b8",
+      "#acacb4"
+    ],
+    "image": "static/images/Myioborus_miniatus.jpeg"
+  },
+  "Peucaea_aestivalis": {
+    "hex": [
+      "#bdb5a8",
+      "#62422f",
+      "#3d2a1e",
+      "#795b3e"
+    ],
+    "image": "static/images/Peucaea_aestivalis.jpeg"
+  },
+  "Cacicus_cela": {
+    "hex": [
+      "#ece8c5",
+      "#313437",
+      "#979c9d",
+      "#94949c"
+    ],
+    "image": "static/images/Cacicus_cela.jpeg"
+  },
+  "Emberiza_poliopleura": {
+    "hex": [
+      "#c4baa6",
+      "#342d27",
+      "#b79b39",
+      "#674d34"
+    ],
+    "image": "static/images/Emberiza_poliopleura.jpeg"
+  },
+  "Anisognathus_somptuosus": {
+    "hex": [
+      "#cccab3",
+      "#343843",
+      "#dfc63e",
+      "#5e584a"
+    ],
+    "image": "static/images/Anisognathus_somptuosus.jpeg"
+  },
+  "Xenoligea_montana": {
+    "hex": [
+      "#b4b4ab",
+      "#696434",
+      "#2a2a28",
+      "#4c4c24"
+    ],
+    "image": "static/images/Xenoligea_montana.jpeg"
+  },
+  "Setophaga_petechia": {
+    "hex": [
+      "#c1b24e",
+      "#f6f5ec",
+      "#4b3f1e",
+      "#6e5c24"
+    ],
+    "image": "static/images/Setophaga_petechia.jpeg"
+  },
+  "Anthus_cinnamomeus": {
+    "hex": [
+      "#dbcfae",
+      "#51401d",
+      "#8a723b",
+      "#706a50"
+    ],
+    "image": "static/images/Anthus_cinnamomeus.jpeg"
+  },
+  "Helmitheros_vermivorum": {
+    "hex": [
+      "#a29a77",
+      "#f6f4ef",
+      "#322919",
+      "#544e34"
+    ],
+    "image": "static/images/Helmitheros_vermivorum.jpeg"
+  },
+  "Thraupis_ornata": {
+    "hex": [
+      "#aeb3aa",
+      "#333732",
+      "#545451",
+      "#606548"
+    ],
+    "image": "static/images/Thraupis_ornata.jpeg"
+  },
+  "Artemisiospiza_belli": {
+    "hex": [
+      "#b6ada2",
+      "#2c2219",
+      "#6b5437",
+      "#4f3e31"
+    ],
+    "image": "static/images/Artemisiospiza_belli.jpeg"
+  },
+  "Peucaea_carpalis": {
+    "hex": [
+      "#bfb6ac",
+      "#372619",
+      "#785e43",
+      "#6a4528"
+    ],
+    "image": "static/images/Peucaea_carpalis.jpeg"
+  },
+  "Emberiza_cioides": {
+    "hex": [
+      "#baac9b",
+      "#342c25",
+      "#6e5536",
+      "#5d3c29"
+    ],
+    "image": "static/images/Emberiza_cioides.jpeg"
+  },
+  "Setophaga_dominica": {
+    "hex": [
+      "#bcbdb9",
+      "#31312c",
+      "#c6b541",
+      "#5f5c58"
+    ],
+    "image": "static/images/Setophaga_dominica.jpeg"
+  },
+  "Myiothlypis_chlorophrys": {
+    "hex": [
+      "#a19a60",
+      "#f6f5ec",
+      "#45462e",
+      "#665c3e"
+    ],
+    "image": "static/images/Myiothlypis_chlorophrys.jpeg"
+  },
+  "Molothrus_aeneus": {
+    "hex": [
+      "#454d50",
+      "#edeeed",
+      "#a6acaf",
+      "#829ab2"
+    ],
+    "image": "static/images/Molothrus_aeneus.jpeg"
+  },
+  "Setophaga_chrysoparia": {
+    "hex": [
+      "#c5c6c4",
+      "#2c2d2b",
+      "#585855",
+      "#d0bd45"
+    ],
+    "image": "static/images/Setophaga_chrysoparia.jpeg"
+  },
+  "Anthus_rufulus": {
+    "hex": [
+      "#d5cebb",
+      "#453a25",
+      "#6d6041",
+      "#80754e"
+    ],
+    "image": "static/images/Anthus_rufulus.jpeg"
+  },
+  "Thlypopsis_ornata": {
+    "hex": [
+      "#9f8963",
+      "#f3f2ec",
+      "#3d382c",
+      "#5c441c"
+    ],
+    "image": "static/images/Thlypopsis_ornata.jpeg"
+  },
+  "Oreothlypis_superciliosa": {
+    "hex": [
+      "#b6b3a7",
+      "#3c3a3c",
+      "#837f3e",
+      "#5e4434"
+    ],
+    "image": "static/images/Oreothlypis_superciliosa.jpeg"
+  },
+  "Dives_dives": {
+    "hex": [
+      "#495369",
+      "#efeff1",
+      "#8394be",
+      "#a0acac"
+    ],
+    "image": "static/images/Dives_dives.jpeg"
+  },
+  "Emberiza_cia": {
+    "hex": [
+      "#8a7457",
+      "#efedea",
+      "#2d261c",
+      "#4d3616"
+    ],
+    "image": "static/images/Emberiza_cia.jpeg"
+  },
+  "Ramphocelus_nigrogularis": {
+    "hex": [
+      "#7f5248",
+      "#f2f1f0",
+      "#2a2220",
+      "#afa6a9"
+    ],
+    "image": "static/images/Ramphocelus_nigrogularis.jpeg"
+  },
+  "Ramphocelus_carbo": {
+    "hex": [
+      "#7e5b54",
+      "#f4f3f1",
+      "#272426",
+      "#b4acaf"
+    ],
+    "image": "static/images/Ramphocelus_carbo.jpeg"
+  },
+  "Chlorothraupis_olivacea": {
+    "hex": [
+      "#9c9a57",
+      "#f6f6ed",
+      "#28250c",
+      "#585450"
+    ],
+    "image": "static/images/Chlorothraupis_olivacea.jpeg"
+  },
+  "Catharopeza_bishopi": {
+    "hex": [
+      "#626368",
+      "#e7e6e5",
+      "#b1b5bc",
+      "#a5aab5"
+    ],
+    "image": "static/images/Catharopeza_bishopi.jpeg"
+  },
+  "Emberiza_jankowskii": {
+    "hex": [
+      "#c3bbb4",
+      "#342a24",
+      "#7c6142",
+      "#614329"
+    ],
+    "image": "static/images/Emberiza_jankowskii.jpeg"
+  },
+  "Thraupis_episcopus": {
+    "hex": [
+      "#b7c6ca",
+      "#344243",
+      "#606c6c",
+      "#74746c"
+    ],
+    "image": "static/images/Thraupis_episcopus.jpeg"
+  },
+  "Rhynchospiza_stolzmanni": {
+    "hex": [
+      "#d0c6ba",
+      "#553a24",
+      "#8e6f48",
+      "#606064"
+    ],
+    "image": "static/images/Rhynchospiza_stolzmanni.jpeg"
+  },
+  "Peucaea_cassinii": {
+    "hex": [
+      "#c0b8ac",
+      "#4a3a2b",
+      "#6e5b46",
+      "#645e56"
+    ],
+    "image": "static/images/Peucaea_cassinii.jpeg"
+  },
+  "Gnorimopsar_chopi": {
+    "hex": [
+      "#45474d",
+      "#edeeef",
+      "#a4a4a8",
+      "#9c9ca4"
+    ],
+    "image": "static/images/Gnorimopsar_chopi.jpeg"
+  },
+  "Setophaga_occidentalis": {
+    "hex": [
+      "#c7c6ba",
+      "#3c3b33",
+      "#6d6154",
+      "#e0ce48"
+    ],
+    "image": "static/images/Setophaga_occidentalis.jpeg"
+  },
+  "Agelaius_phoeniceus": {
+    "hex": [
+      "#484950",
+      "#e5dcd3",
+      "#a4aca4",
+      "#a4a4ac"
+    ],
+    "image": "static/images/Agelaius_phoeniceus.jpeg"
+  },
+  "Arremon_torquatus": {
+    "hex": [
+      "#64624b",
+      "#f1f1ee",
+      "#a3a4a8",
+      "#bcbcba"
+    ],
+    "image": "static/images/Arremon_torquatus.jpeg"
+  },
+  "Melozone_cabanisi": {
+    "hex": [
+      "#b3aca3",
+      "#5d4b36",
+      "#342c23",
+      "#6b3927"
+    ],
+    "image": "static/images/Melozone_cabanisi.jpeg"
+  },
+  "Microspingus_alticola": {
+    "hex": [
+      "#a6856a",
+      "#f2f2ef",
+      "#46403a",
+      "#71412e"
+    ],
+    "image": "static/images/Microspingus_alticola.jpeg"
+  },
+  "Basileuterus_belli": {
+    "hex": [
+      "#a29659",
+      "#f8f7f0",
+      "#61341a",
+      "#54544c"
+    ],
+    "image": "static/images/Basileuterus_belli.jpeg"
+  },
+  "Chlorospingus_parvirostris": {
+    "hex": [
+      "#9d9a68",
+      "#f3f3eb",
+      "#48463b",
+      "#645c3c"
+    ],
+    "image": "static/images/Chlorospingus_parvirostris.jpeg"
+  },
+  "Tinamus_solitarius": {
+    "hex": [
+      "#7e6d59",
+      "#edece6",
+      "#221e16",
+      "#b1b2af"
+    ],
+    "image": "static/images/Tinamus_solitarius.jpeg"
+  },
+  "Thlypopsis_sordida": {
+    "hex": [
+      "#beb396",
+      "#3a3934",
+      "#a96e34",
+      "#5c4c44"
+    ],
+    "image": "static/images/Thlypopsis_sordida.jpeg"
+  },
+  "Habia_rubica": {
+    "hex": [
+      "#c7b5a4",
+      "#81614a",
+      "#726d65",
+      "#7e625e"
+    ],
+    "image": "static/images/Habia_rubica.jpeg"
+  },
+  "Arremon_costaricensis": {
+    "hex": [
+      "#b9b9ae",
+      "#606032",
+      "#24241d",
+      "#444438"
+    ],
+    "image": "static/images/Arremon_costaricensis.jpeg"
+  },
+  "Quiscalus_lugubris": {
+    "hex": [
+      "#3a3b43",
+      "#ececec",
+      "#909194",
+      "#9c9c9e"
+    ],
+    "image": "static/images/Quiscalus_lugubris.jpeg"
+  },
+  "Euphagus_carolinus": {
+    "hex": [
+      "#5c6671",
+      "#f0f2f3",
+      "#b4c1be",
+      "#b4b4bc"
+    ],
+    "image": "static/images/Euphagus_carolinus.jpeg"
+  },
+  "Emberiza_capensis": {
+    "hex": [
+      "#afa8a0",
+      "#775031",
+      "#221e1b",
+      "#5c3a1e"
+    ],
+    "image": "static/images/Emberiza_capensis.jpeg"
+  },
+  "Zonotrichia_leucophrys": {
+    "hex": [
+      "#bcb2a9",
+      "#342820",
+      "#7c5f46",
+      "#5d412d"
+    ],
+    "image": "static/images/Zonotrichia_leucophrys.jpeg"
+  },
+  "Ammospiza_nelsoni": {
+    "hex": [
+      "#97876c",
+      "#f5f4ee",
+      "#2d2316",
+      "#513f27"
+    ],
+    "image": "static/images/Ammospiza_nelsoni.jpeg"
+  },
+  "Setophaga_palmarum": {
+    "hex": [
+      "#c5bdaa",
+      "#68503a",
+      "#605c58",
+      "#6c645c"
+    ],
+    "image": "static/images/Setophaga_palmarum.jpeg"
+  },
+  "Thlypopsis_pectoralis": {
+    "hex": [
+      "#b7afa6",
+      "#373736",
+      "#5c4c44",
+      "#5c5444"
+    ],
+    "image": "static/images/Thlypopsis_pectoralis.jpeg"
+  },
+  "Lanio_fulvus": {
+    "hex": [
+      "#bdb89e",
+      "#424340",
+      "#5c544e",
+      "#7d6c33"
+    ],
+    "image": "static/images/Lanio_fulvus.jpeg"
+  },
+  "Arremon_schlegeli": {
+    "hex": [
+      "#c0c0bd",
+      "#3c3b37",
+      "#98973f",
+      "#5c545c"
+    ],
+    "image": "static/images/Arremon_schlegeli.jpeg"
+  },
+  "Vidua_togoensis": {
+    "hex": [
+      "#deded9",
+      "#515050",
+      "#2c2a29",
+      "#66656c"
+    ],
+    "image": "static/images/Vidua_togoensis.jpeg"
+  },
+  "Vidua_interjecta": {
+    "hex": [
+      "#46454a",
+      "#edece9",
+      "#aaa8a4",
+      "#94949c"
+    ],
+    "image": "static/images/Vidua_interjecta.jpeg"
+  },
+  "Rhynchophanes_mccownii": {
+    "hex": [
+      "#b0aca8",
+      "#3d322e",
+      "#795944",
+      "#525458"
+    ],
+    "image": "static/images/Rhynchophanes_mccownii.jpeg"
+  },
+  "Tinamus_guttatus": {
+    "hex": [
+      "#665040",
+      "#e7e2d7",
+      "#b2b1a8",
+      "#a8a4a4"
+    ],
+    "image": "static/images/Tinamus_guttatus.jpeg"
+  },
+  "Spizella_breweri": {
+    "hex": [
+      "#c0b6aa",
+      "#3b281b",
+      "#655140",
+      "#745f4b"
+    ],
+    "image": "static/images/Spizella_breweri.jpeg"
+  },
+  "Chlorospingus_canigularis": {
+    "hex": [
+      "#afab6f",
+      "#f0f0ea",
+      "#4c482c",
+      "#626555"
+    ],
+    "image": "static/images/Chlorospingus_canigularis.jpeg"
+  },
+  "Apteryx_maxima": {
+    "hex": [
+      "#645b52",
+      "#f3f3f0",
+      "#b2acac",
+      "#b4b4b0"
+    ],
+    "image": "static/images/Apteryx_maxima.jpeg"
+  },
+  "Quiscalus_niger": {
+    "hex": [
+      "#485266",
+      "#edeeef",
+      "#a4a4a4",
+      "#7c90bc"
+    ],
+    "image": "static/images/Quiscalus_niger.jpeg"
+  },
+  "Psarocolius_viridis": {
+    "hex": [
+      "#a09c57",
+      "#f4f4ec",
+      "#33301f",
+      "#6b5036"
+    ],
+    "image": "static/images/Psarocolius_viridis.jpeg"
+  },
+  "Cissopis_leverianus": {
+    "hex": [
+      "#b2b4b7",
+      "#3a3d3b",
+      "#545454",
+      "#5a5c52"
+    ],
+    "image": "static/images/Cissopis_leverianus.jpeg"
+  },
+  "Setophaga_caerulescens": {
+    "hex": [
+      "#5d616c",
+      "#ededeb",
+      "#bcbcbd",
+      "#b2b4bc"
+    ],
+    "image": "static/images/Setophaga_caerulescens.jpeg"
+  },
+  "Anthus_trivialis": {
+    "hex": [
+      "#d6d4c3",
+      "#343119",
+      "#706e47",
+      "#5e5938"
+    ],
+    "image": "static/images/Anthus_trivialis.jpeg"
+  },
+  "Thraupis_cyanoptera": {
+    "hex": [
+      "#aab3b5",
+      "#5d684e",
+      "#293230",
+      "#4c546c"
+    ],
+    "image": "static/images/Thraupis_cyanoptera.jpeg"
+  },
+  "Oreopsar_bolivianus": {
+    "hex": [
+      "#3e424a",
+      "#ebecec",
+      "#949ca4",
+      "#9ca4ac"
+    ],
+    "image": "static/images/Oreopsar_bolivianus.jpeg"
+  },
+  "Geothlypis_poliocephala": {
+    "hex": [
+      "#c6c2a8",
+      "#353634",
+      "#64504c",
+      "#a9a144"
+    ],
+    "image": "static/images/Geothlypis_poliocephala.jpeg"
+  },
+  "Euphagus_cyanocephalus": {
+    "hex": [
+      "#5a667a",
+      "#f2f3f4",
+      "#a4b4c8",
+      "#acbccc"
+    ],
+    "image": "static/images/Euphagus_cyanocephalus.jpeg"
+  },
+  "Ammospiza_leconteii": {
+    "hex": [
+      "#cdc2ad",
+      "#433621",
+      "#856d45",
+      "#675136"
+    ],
+    "image": "static/images/Ammospiza_leconteii.jpeg"
+  },
+  "Iridosornis_jelskii": {
+    "hex": [
+      "#5d6f92",
+      "#efede7",
+      "#282827",
+      "#acbccc"
+    ],
+    "image": "static/images/Iridosornis_jelskii.jpeg"
+  },
+  "Melozone_albicollis": {
+    "hex": [
+      "#7a705e",
+      "#f2f1ec",
+      "#c9beb2",
+      "#c7ae8c"
+    ],
+    "image": "static/images/Melozone_albicollis.jpeg"
+  },
+  "Myiothlypis_bivittata": {
+    "hex": [
+      "#807a4e",
+      "#f8f8f1",
+      "#e0d26e",
+      "#cab86f"
+    ],
+    "image": "static/images/Myiothlypis_bivittata.jpeg"
+  },
+  "Atlapetes_latinuchus": {
+    "hex": [
+      "#c0bfbe",
+      "#383735",
+      "#585656",
+      "#967858"
+    ],
+    "image": "static/images/Atlapetes_latinuchus.jpeg"
+  },
+  "Microspingus_lateralis": {
+    "hex": [
+      "#bcb0a3",
+      "#694d34",
+      "#5a544a",
+      "#544c44"
+    ],
+    "image": "static/images/Microspingus_lateralis.jpeg"
+  },
+  "Tachyphonus_delatrii": {
+    "hex": [
+      "#424854",
+      "#eae9e5",
+      "#a4acb1",
+      "#94a0a4"
+    ],
+    "image": "static/images/Tachyphonus_delatrii.jpeg"
+  },
+  "Passerina_ciris": {
+    "hex": [
+      "#946c5e",
+      "#f2f1ee",
+      "#3d3c47",
+      "#717fb9"
+    ],
+    "image": "static/images/Passerina_ciris.jpeg"
+  },
+  "Setophaga_plumbea": {
+    "hex": [
+      "#b6b6b8",
+      "#1a1a18",
+      "#54545a",
+      "#545c5c"
+    ],
+    "image": "static/images/Setophaga_plumbea.jpeg"
+  },
+  "Myiothlypis_signata": {
+    "hex": [
+      "#938e5c",
+      "#f8f8ef",
+      "#e5d670",
+      "#cccc9c"
+    ],
+    "image": "static/images/Myiothlypis_signata.jpeg"
+  },
+  "Icterus_prosthemelas": {
+    "hex": [
+      "#393b3d",
+      "#e0dfd0",
+      "#e6cb3b",
+      "#645f55"
+    ],
+    "image": "static/images/Icterus_prosthemelas.jpeg"
+  },
+  "Calcarius_ornatus": {
+    "hex": [
+      "#b4b2ad",
+      "#303235",
+      "#5a4943",
+      "#6f5646"
+    ],
+    "image": "static/images/Calcarius_ornatus.jpeg"
+  },
+  "Icterus_northropi": {
+    "hex": [
+      "#3a3c3c",
+      "#dbd9c1",
+      "#f0d43a",
+      "#656245"
+    ],
+    "image": "static/images/Icterus_northropi.jpeg"
+  },
+  "Myioborus_melanocephalus": {
+    "hex": [
+      "#a49e6e",
+      "#3d3d39",
+      "#f1f2ed",
+      "#5c5a54"
+    ],
+    "image": "static/images/Myioborus_melanocephalus.jpeg"
+  },
+  "Paroaria_coronata": {
+    "hex": [
+      "#d3d2d2",
+      "#2b2b2d",
+      "#863e37",
+      "#6a6d6c"
+    ],
+    "image": "static/images/Paroaria_coronata.jpeg"
+  },
+  "Passerella_iliaca": {
+    "hex": [
+      "#6b5a48",
+      "#eae7e1",
+      "#b2aba6",
+      "#b4b4ac"
+    ],
+    "image": "static/images/Passerella_iliaca.jpeg"
+  },
+  "Anthus_leucophrys": {
+    "hex": [
+      "#9b8558",
+      "#f9f8f0",
+      "#40331c",
+      "#4c4c34"
+    ],
+    "image": "static/images/Anthus_leucophrys.jpeg"
+  },
+  "Tinamus_tao": {
+    "hex": [
+      "#676f5d",
+      "#f2f4f0",
+      "#b4bca1",
+      "#acb4b4"
+    ],
+    "image": "static/images/Tinamus_tao.jpeg"
+  },
+  "Melozone_fusca": {
+    "hex": [
+      "#a3a09a",
+      "#1f1e16",
+      "#48443a",
+      "#514d44"
+    ],
+    "image": "static/images/Melozone_fusca.jpeg"
+  },
+  "Cardinalis_phoeniceus": {
+    "hex": [
+      "#a15a3c",
+      "#f7f4ef",
+      "#c3b0a2",
+      "#190c0c"
+    ],
+    "image": "static/images/Cardinalis_phoeniceus.jpeg"
+  }
+}
